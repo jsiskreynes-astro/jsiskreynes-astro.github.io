@@ -7,7 +7,7 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/me.JPG "Profile Picture"){:.profile}
 
-Welcome! I am an astronomer and, as of September 2024, a postdoctoral research fellow at the Center for Astrophysics | Harvard & Smithsonian (CfA) in Cambridge, MA. My primary work consists of analyzing multi-wavelength observations of gravitationally lensed quasars for astrometric determinations, with a focus on exploiting archival observations of these quasars taken bby the Chandra X-ray Observatory. The methods I am using can help unveil the presence of offsets between the optical/radio and X-ray emission regions in these AGN, and help identify dual and binary AGN candidates. 
+Welcome! I am an astronomer and, as of September 2024, a postdoctoral research fellow at the Center for Astrophysics $|$ Harvard & Smithsonian (CfA) in Cambridge, MA. My primary work consists of analyzing multi-wavelength observations of gravitationally lensed quasars for astrometric determinations, with a focus on exploiting archival observations of these quasars taken bby the Chandra X-ray Observatory. The methods I am using can help unveil the presence of offsets between the optical/radio and X-ray emission regions in these AGN, and help identify dual and binary AGN candidates. 
 
 #led if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
