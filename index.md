@@ -13,7 +13,7 @@ I completed a Ph.D. in astronomy at the Institute of Astronomy at The University
 
 I was raised in Mallorca, Spain, and I like to keep in touch with my Spanish roots by learning latin dances and flamenco in my free time. I also like taking part and organizing events that help disseminate scientific results with members of the public. I have two surnames: Sisk, which comes from my father, and Reynés, which comes from my mother. 
 
-Please refer to my profile on [NASA/ADS][NASA/ADS] or [ORCID][ORCID] to see a full list of my publications, and please contact me via e-mail if you would like to discuss science!
+Please refer to my profile on [NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) or [ORCID](https://orcid.org/0000-0003-3814-6796) to see a full list of my publications, and please contact me via e-mail if you would like to discuss science!
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
