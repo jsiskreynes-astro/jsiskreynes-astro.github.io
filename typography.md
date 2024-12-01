@@ -5,11 +5,11 @@ permalink: /typography/
 main_nav: true
 ---
 
-<p>Please do not hesitate to contact me via e-mail at julia (dot) sisk (underscore) reynes (at) cfa (dot) harvard (dot) edu if you would like to discuss science or if you are interested in working with me. 
+<p>If you wuld like to discuss science or are interested in working with me, please do not hesitate to contact me via e-mail at julia (dot) sisk (underscore) reynes (at) cfa (dot) harvard (dot) edu. 
 
-Equivalently, feel free to pop by my office (B-306A) if you’re around the CfA (60 Garden Street, Cambridge 02144). 
+<p> Equivalently, feel free to pop by my office (B-306A) if you’re around the CfA (60 Garden Street, Cambridge 02144, MA). 
 
-A note on my name: My first name is Júlia (although this is written in Catalan, this is pronounced the same as in English). I have two surnames: Sisk, which comes from my father and has an Irish origin, and Reynés, which comes from my mother and has a French origin.
+<p> A note on my name: My first name is Júlia (although this is written in Catalan, this is pronounced the same as in English). I have two surnames: Sisk, which comes from my father and has an Irish origin, and Reynés, which comes from my mother and has a French origin.
 
 
 .</p>
