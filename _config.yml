@@ -15,13 +15,12 @@ email: julia.sisk_reynes@cfa.harvard.edu
 name: Júlia Sisk Reynés
 description: >
   A simple yet classy theme for your Jekyll website or blog.
-# Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/h1821.jpeg"
-logo: "/assets/logocfa.png"
+logo: "/assets/h1821.jpeg"
 
 # Build settings
 markdown: kramdown
@@ -192,12 +191,12 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
+    fb_image: "/assets/h1821.jpeg"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/assets/h1821.jpeg"
 
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
