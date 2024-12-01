@@ -1,11 +1,18 @@
 ---
 layout: page
-title: Typography
+title: Contact
 permalink: /typography/
 main_nav: true
 ---
 
-<p>The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
+<p>Please do not hesitate to contact me via e-mail at julia (dot) sisk (underscore) reynes (at) cfa (dot) harvard (dot) edu if you would like to discuss science or if you are interested in working with me. 
+
+Equivalently, feel free to pop by my office (B-306A) if you’re around the CfA (60 Garden Street, Cambridge 02144). 
+
+A note on my name: My first name is Júlia (although this is written in Catalan, this is pronounced the same as in English). I have two surnames: Sisk, which comes from my father and has an Irish origin, and Reynés, which comes from my mother and has a French origin.
+
+
+.</p>
 
 <hr>
 
