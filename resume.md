@@ -6,7 +6,7 @@ main_nav: true
 ---
 <hr>
 
-<h1 id="Research interests">Headings</h1>
+<h1 id="Research interests">Research Interests</h1>
 
 <p>I am currently undertaking a multi-wavelength study of a sample of gravitationally lensed AGN in the high magnification regime, with a special focus on the analysis of Chandra data. The methods my collaborators and I are using can help unveil the presence of offsets between the optical/radio and X-ray emission regions in such AGN, and also help identify binary and dual AGN candidates. 
 
@@ -16,12 +16,8 @@ main_nav: true
 
 <hr>
 
-<h1 id="Curriculum vitae">Headings</h1>
+<h1 id="Curriculum vitae">Curriculum Vitae and Publications</h1>
 
 <p> Please refer to my CV (which includes a full list of publications) or my one-page resume for further details on my experience, e.g. invited presentations, observing experience, professional and institutional service, outreach and engagement, etc. 
-
-<hr>
-
-<h1 id="Publications">Headings</h1>
 
 <p> My publications are available on my NASA/ADS or ORCID profiles. 
