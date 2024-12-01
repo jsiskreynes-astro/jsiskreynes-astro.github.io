@@ -20,4 +20,10 @@ main_nav: true
 
 <p> Please refer to my CV (which includes a full list of publications) or my one-page resume for further details on my experience, e.g. invited presentations, observing experience, professional and institutional service, outreach and engagement, etc. 
 
-<p> My publications are also available on my [NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7Btype%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) and my [ORCID](https://orcid.org/0000-0003-3814-6796) profiles. 
+<p> My publications are also available on my [NASA/ADS](NASA/ADS) and my [ORCID](ORCID) profiles. 
+
+[centrarium]: https://github.com/bencentra/centrarium
+[bencentra]: http://bencentra.com
+[jekyll]: https://github.com/jekyll/jekyll
+[NASA/ADS]: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+[ORCID]: https://orcid.org/0000-0003-3814-6796
