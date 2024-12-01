@@ -13,8 +13,6 @@ In July 2024, I completed a Ph.D. in astronomy at the Institute of Astronomy, Th
 
 I was raised in Mallorca, Spain, and I like to stay connected to my Spanish heritage by learning Latin dances and flamenco in my free time. I also help run and get involved in events targeted at disseminating scientific results with members of the general public. 
 
-Please do not hesitate to contact me via e-mail at julia (dot) sisk (underscore) reynes (at) cfa (dot) harvard (dot) edu if you would like to discuss science. Equivalently, feel free to pop by my office (B-306A, CfA, 60 Garden Street, Cambridge 02144). 
-
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
 [jekyll]: https://github.com/jekyll/jekyll
