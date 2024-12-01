@@ -20,7 +20,7 @@ main_nav: true
 
 <p> Please refer to my CV (which includes a full list of publications) or my one-page resume for further details on my experience, e.g. invited presentations, observing experience, professional and institutional service, outreach and engagement, etc. 
 
-<p> My publications are also available on my [NASA/ADS](NASA/ADS) and my [ORCID](ORCID) profiles. 
+<p> My publications are also available on my [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Sisk-Reyn%C3%A9s%2C%20J%C3%BAlia%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) and my [ORCID](https://orcid.org/0000-0003-3814-6796) profiles. 
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
