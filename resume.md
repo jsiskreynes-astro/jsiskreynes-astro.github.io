@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research & CV 
-permalink: /typography/
+permalink: /resume/
 main_nav: true
 ---
 
