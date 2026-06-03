@@ -7,22 +7,18 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/me.JPG "Profile Picture"){:.profile}
 
-I joined the Center for Astrophysics (CfA) at the Harvard &amp; Smithsonian as a postdoctoral
-research fellow in September 2024. I analyze multi-wavelength observations of gravitationally
-lensed and distant active galactic nuclei (AGN) to perform astrometric determinations. I focus on
-exploiting the use of archival observations taken with the Chandra X-ray telescope. The
-methods my collaborators and I use can help unveil the presence of offsets between the
-optical/radio and X-ray emission regions in these distant AGN and also help identify dual and
-binary AGN candidates.
+Welcome to my professional website!
 
-I completed a Ph.D. in astronomy at the Institute of Astronomy at The University of Cambridge
-in July 2024. My doctoral research centered on exploiting high-resolution X-ray spectroscopy of
-AGN to unveil fundamental physics, specifically: axions and the spin of massive black holes in
-AGN. Prior to my Ph.D., I earned a Master’s in Physics at The University of Manchester in the
-UK. For my master’s project, I developed an analytic model for predicting the thermal Sunyaev-
-Zel’dovich signal for different cluster pressure profiles.
+I am an astronomer and postdoctoral research fellow at the Center for Astrophysics (CfA) | Harvard &amp; Smithsonian in Cambridge, MA. I am broadly interested in investigating the cosmic growth and co-evolution of supermassive black holes and their host galaxies, black hole astrophysics, and physics beyond the Standard Model. To investigate these topics, I combine observational, computational, and statistical methods. 
 
-In my free time, I enjoy organising and getting involved in events targeted at disseminating scientific to members of the general public. 
+Since joining the CfA in the Fall of 2024, my research leverages the flux magnification and spatial amplification effects of strong gravitational lensing to zoom into the inner regions of cosmologically distant active galactic nuclei (AGN) at fine spatial scales. In particular, I am analyzing a sample of lensed quasars with archival X-ray, optical and/or radio data to determine the spatial origin of their respective emission regions with milliarcsecond precision. 
+
+I completed a Ph.D. in astronomy at the Institute of Astronomy at The University of Cambridge in July 2024. My doctoral research centered on exploiting high-resolution X-ray spectroscopy of AGN to unveil fundamental physics, specifically: axions and the spin of massive black holes in AGN. Prior to my Ph.D., I earned a Master’s in Physics at The University of Manchester in the
+UK. For my master’s project, I developed an analytic model for predicting the thermal Sunyaev-Zel’dovich signal for different cluster pressure profiles.
+
+In my free time, I enjoy organising and getting involved in events targeted at disseminating scientific to members of the general public. While in Boston, I have had the pleasure of participating at several events in Spanish for the local Hispanic community. 
+
+I grew up in the island of Mallorca, Spain. Whenever I am not working, I like spending time outdoors. 
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
