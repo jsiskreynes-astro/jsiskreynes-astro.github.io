@@ -20,6 +20,6 @@ I am broadly interested in topics concerning the hot and energetic universe and 
 
 # Curriculum vitae and Publications
 
-Please refer to [my CV]({{ site.url }}/assets/jsiskreynes-cv-3.pdf) or [my one-page resume]({{ site.url }}/assets/Resume_120124.pdf) for further details on my experience and publications. 
+Please refer to [my CV]({{ site.url }}/assets/full_cv_jsiskreynes.pdf) or [my one-page resume]({{ site.url }}/assets/Resume_120124.pdf) for further details on my experience and publications. 
 
 My publications are also available on my [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Sisk-Reyn%C3%A9s%2C%20J%C3%BAlia%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) and my [ORCID](https://orcid.org/0000-0003-3814-6796) profiles. 
