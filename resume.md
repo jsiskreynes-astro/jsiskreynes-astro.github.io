@@ -8,7 +8,9 @@ main_nav: true
 
 # Research
 
-I am currently undertaking a multi-wavelength study of a sample of gravitationally lensed AGN in the high magnification regime, with a special focus on the analysis of Chandra data. The methods my collaborators and I are using can help unveil the presence of offsets between the optical/radio and X-ray emission regions in such AGN and also help identify binary and dual AGN candidates. 
+I am interested in addressing a broad range of research topics, including (i) the growth of supermassive black holes and galaxies over cosmic time, (ii) black hole astrophysics, and (iii) physics beyond the Standard Model.  
+
+Since starting my current postdoctoral research fellowship in 2024, I am undertaking a multi-wavelength study of a sample of gravitationally lensed AGN in the high magnification regime, with a special focus on the analysis of Chandra data. The methods my collaborators and I are using can help unveil the presence of offsets between the optical/radio and X-ray emission regions in such AGN and also help identify binary and dual AGN candidates. 
 
 My Ph.D. focused on exploiting X-ray astronomy to probe nonstandard physics, namely: the parameter space of ultralight axions, which are well-motivated particles and compelling dark matter candidates, but as yet undetected; and the spin of massive black holes in AGN. My doctoral thesis set (i) some of the tightest constraints to date on the interaction of ultralight axions with photons and (ii) the only well-defined spin constraint for a very massive black hole studied with X-ray reflection spectroscopy to date. An online version of my Ph.D. thesis is available [here](https://www.repository.cam.ac.uk/items/73316b31-4841-4c8f-a1f4-5a6c6fcb0735).
 
