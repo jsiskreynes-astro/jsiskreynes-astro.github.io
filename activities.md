@@ -13,15 +13,14 @@ nav_order: 5
 
 ---
 
-**July 2026 — European Astronomical Society Annual Meeting, Lausanne (Contributed)**  
+**July 2026 — EAS Annual Meeting, Lausanne (Contributed)**  
 *An X-ray pathway to connecting PTA‑Inferred SMBH Mergers with LISA sources: Lensed AGN Structure and Spin Evolution.*
 
 ---
 
 **June 2026 — AAS Annual Meeting, Pasadena (Invited)**  
-Special HEAD Session: *“Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays.”*  
-Talk delivered by Christopher S. Reynolds on my behalf:  
-*Probing supermassive black hole spin demographics from X-rays.*
+Special HEAD Session: *“Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays.”*    
+*Probing supermassive black hole spin demographics from X-rays.* Delivered by Prof. Christopher S. Reynolds on my behalf.
 
 ---
 
