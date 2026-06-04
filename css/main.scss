@@ -23,16 +23,6 @@ body {
 
 /* your container reset rules here */
 
-/* Reduce space between horizontal rule and next header */
-hr + h1,
-hr + h2,
-hr + h3,
-hr + h4,
-hr + h5,
-hr + h6 {
-  margin-top: 0px !important;
-};
-
 /* Pale blue content boxes for readability */
 main, article, section, div, p {
   background: rgba(230, 247, 255, 0.85); /* translucent pale cyan */
