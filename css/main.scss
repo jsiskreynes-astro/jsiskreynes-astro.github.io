@@ -22,9 +22,16 @@ body {
 ;
 /* Pale blue content boxes for readability */
 main, article, section, div, p {
+  background: rgba(230, 247, 255, 0.85); /* translucent pale cyan */
   padding: 12px 16px;
   border-radius: 10px;
   margin: 20px auto;
-  color: black; /* ensures readability */
+  max-width: 800px;   /* keeps paragraphs centered and elegant */
+  color: black;       /* readable text */
+};
+
+/* Remove background from containers so no extra blue shows */
+main, article, section, div {
+  background: none !important;
 }
 ;
