@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research & CV 
-permalink: /resume/
+permalink: /publications-and-cv/
 main_nav: true
 ---
 
