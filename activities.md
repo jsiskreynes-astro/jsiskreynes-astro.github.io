@@ -3,6 +3,7 @@ layout: page
 title: Activities
 permalink: /activities/
 main_nav: true
+nav_order: 5
 ---
 
 # Upcoming Presentations
