@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research & CV 
+title: CV & Publications 
 permalink: /publications-and-cv/
 main_nav: true
 ---
