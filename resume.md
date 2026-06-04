@@ -4,7 +4,6 @@ title: Research & CV
 permalink: /resume/
 main_nav: true
 ---
-<hr>
 
 # Research
 
