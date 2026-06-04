@@ -11,7 +11,7 @@ You can download my full CV [here](assets/full_cv_jsiskreynes.pdf).
 
 ## Publications
 
-You can view a comprehensive list of my publications on [NASA/ADS portal](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc)
+You can view a comprehensive list of my publications on [NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc).
 
 ### Currently working on... 
 
