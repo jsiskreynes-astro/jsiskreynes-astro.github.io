@@ -15,7 +15,7 @@ You can view a comprehensive list of my publications on [NASA/ADS portal](https:
 
 ### Publications in preparation 
 
-Five, including a student-led publication on the X-ray structure of the Einstein zigzag lens (Eades, Charlotte, et al., in prep.), and two first-author papers to be included in the NewAthena Special Issue which will be published in _JHEAp_ in 2027.  
+Five, including a student-led publication on the X-ray structure of the Einstein zigzag lens (Eades, Charlotte, et al., in prep.), and two first-author papers to be included in the _NewAthena_ Special Issue which will be published in _JHEAp_ in 2027.  
 
 ### Refereed Publications
 - *Spin Demographics of Active Supermassive Black Holes: Updated Estimates from X-ray reflection and Future opportunities.* **Sisk-Reynés, Júlia M.**, et al.
