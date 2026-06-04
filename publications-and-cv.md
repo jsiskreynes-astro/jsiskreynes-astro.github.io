@@ -1,6 +1,4 @@
 ---
-title: CV & Publications
----
 layout: page
 title: Research & CV 
 permalink: /resume/
