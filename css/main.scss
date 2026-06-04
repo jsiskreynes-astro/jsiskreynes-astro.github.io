@@ -70,3 +70,21 @@ hr {
   border-top: 1px solid rgba(0,0,0,0.3);
 }
 ;
+/* Shrink the top navigation bar */
+nav {
+  background: rgba(230, 247, 255, 0.85); /* or your preferred color */
+  height: 28px;                          /* compact height */
+  padding: 0 !important;                 /* remove extra vertical padding */
+  display: flex;
+  align-items: center;                   /* vertically center the links */
+  justify-content: center;
+}
+
+/* Shrink the links inside the bar */
+nav a {
+  padding: 0 10px !important;            /* remove vertical padding */
+  line-height: 28px !important;          /* match the nav height */
+  color: black !important;
+  font-weight: 600;
+  text-decoration: none;
+}
