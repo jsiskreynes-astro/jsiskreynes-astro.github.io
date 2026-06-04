@@ -5,17 +5,35 @@ permalink: /activities/
 main_nav: true
 ---
 
-# Upcoming presentations
+# Upcoming Presentations
 
-_August 2026_ -- Invited presentation on behalf of the NewAthena Science Working Group on Cosmology and Fundamental Physics. COSPAR 2026 Scientfic Assembly in Florence, Italy.
+## August 2026 — COSPAR 2026 Scientific Assembly, Florence, Italy  
+**Invited presentation on behalf of the NewAthena Science Working Group on Cosmology and Fundamental Physics**
 
-""Cosmology and Fundamental Physics with NewAthena: From Black Hole Growth to the Cosmological Expansion of the Universe to the Dark Matter Paradigm.""
+*“Cosmology and Fundamental Physics with NewAthena: From Black Hole Growth to the Cosmological Expansion of the Universe to the Dark Matter Paradigm.”*
 
-_July 2026_ -- Contributed presentation at the European Astronomical Society 2026 Annual Meeting in Lausanne, Switzerland. 
+---
 
-""An X-ray pathway to connecting PTA‑Inferred SMBH Mergers with LISA sources: Lensed AGN Structure and Spin Evolution.""
+## July 2026 — European Astronomical Society Annual Meeting, Lausanne, Switzerland  
+**Contributed presentation**
 
-_June 2026_ -- Contributed presentations at the X-ray Universe 2026 in Elche, Spain. 
+*“An X-ray pathway to connecting PTA‑Inferred SMBH Mergers with LISA sources: Lensed AGN Structure and Spin Evolution.”*
 
-""Chandra spectroscopy confirms the tightest-separation dual AGN in a gravitationally lensed radio-loud system at z = 3.23.""
-""Probing sub-kiloparsec X-ray structure in high-redshift AGN with strong gravitational lensing.""
+---
+
+## June 2026 — X-ray Universe 2026, Elche, Spain  
+**Contributed presentations**
+
+*“Chandra spectroscopy confirms the tightest-separation dual AGN in a gravitationally lensed radio-loud system at z = 3.23.”*  
+*“Probing sub-kiloparsec X-ray structure in high-redshift AGN with strong gravitational lensing.”*
+
+---
+
+# Mentoring & Supervision
+
+## Southampton–CfA Master’s Students  
+I have supervised two Southampton–CfA exchange Master’s students during the 2025–2026 academic year. 
+
+Both students have now successfully completed and defended their Master’s theses (viva voce examinations), marking the culmination of their research projects.
+
+Their work spanned topics in strong lensing, AGN physics, and astrophysics-enabled axion saerches, and several projects are being prepared for conference presentations and publication.
