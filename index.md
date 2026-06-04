@@ -3,6 +3,7 @@ layout: page
 title: Welcome!
 permalink: /
 main_nav: true
+nav_order:1
 ---
 
 ![alt text]({{ site.baseurl }}/assets/me.JPG "Profile Picture"){:.profile}
