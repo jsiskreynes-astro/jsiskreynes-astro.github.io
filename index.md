@@ -7,9 +7,7 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/me.JPG "Profile Picture"){:.profile}
 
-Welcome to my professional website!
-
-I am an astronomer and postdoctoral research fellow at the Center for Astrophysics (CfA) | Harvard &amp; Smithsonian in Cambridge, MA. I am broadly interested in investigating the cosmic growth and co-evolution of supermassive black holes and their host galaxies, black hole astrophysics, and physics beyond the Standard Model. To investigate these topics, I combine observational, computational, and statistical methods. 
+I am an astronomer and postdoctoral research fellow at the Center for Astrophysics (CfA) of the Harvard &amp; Smithsonian in Cambridge, MA. I am broadly interested in investigating the cosmic growth and co-evolution of supermassive black holes and their host galaxies, black hole astrophysics, and physics beyond the Standard Model. To investigate these topics, I combine observational, computational, and statistical methods. 
 
 Since joining the CfA in the Fall of 2024, my research leverages the flux magnification and spatial amplification effects of strong gravitational lensing to zoom into the inner regions of cosmologically distant active galactic nuclei (AGN) at fine spatial scales. In particular, I am analyzing a sample of lensed quasars with archival X-ray, optical and/or radio data to determine the spatial origin of their respective emission regions with milliarcsecond precision. 
 
