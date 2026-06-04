@@ -20,3 +20,12 @@ body {
   color: white; /* Makes the text color white */
 }
 ;
+/* Pale blue content boxes for readability */
+main, article, section, div, p {
+  background: rgba(230, 247, 255, 0.85); /* translucent pale cyan */
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  color: black; /* ensures text stays readable */
+}
+;
