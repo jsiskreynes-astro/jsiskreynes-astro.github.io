@@ -5,7 +5,7 @@ permalink: /research/
 main_nav: true
 ---
 
-I am interested in addressing a broad range of research topics, including (i) the growth of supermassive black holes and galaxies over cosmic time, (ii) black hole astrophysics, and (iii) physics beyond the Standard Model.  
+I am broadly interested in addressing a broad range of research topics, including the growth of supermassive black holes and galaxies over cosmic time, black hole astrophysics, and physics beyond the Standard Model.  
 
 ## Strong gravitational lenses as cosmic amplifiers 
 
