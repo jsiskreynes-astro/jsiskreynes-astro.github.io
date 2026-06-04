@@ -3,6 +3,7 @@ layout: page
 title: Research 
 permalink: /research/
 main_nav: true
+nav_order: 2
 ---
 
 I am broadly interested in addressing a broad range of research topics, including the growth of supermassive black holes and galaxies over cosmic time, black hole astrophysics, and physics beyond the Standard Model.  
