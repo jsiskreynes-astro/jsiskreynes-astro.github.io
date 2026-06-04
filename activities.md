@@ -21,6 +21,13 @@ main_nav: true
 
 ---
 
+## June 2026 — American Astronomical Society Annual Meeting, Pasadena, CA  
+**Invited presentation at the Special HEAD Session "Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays".**
+
+*“Probing supermassive black hole spin demographics from X-rays”*. This talk will be given by Christopher S. Reynolds on my behalf. 
+
+---
+
 ## June 2026 — X-ray Universe 2026, Elche, Spain  
 **Contributed presentations**
 
