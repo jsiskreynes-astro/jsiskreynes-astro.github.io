@@ -9,7 +9,7 @@ nav_order: 5
 # Upcoming Presentations
 
 **August 2026 — COSPAR Scientific Assembly, Florence (Invited)**  
-*Cosmology and Fundamental Physics with NewAthena: From Black Hole Growth to the Cosmological Expansion of the Universe to the Dark Matter Paradigm.*
+E1.18 session on Revolutionising High-Energy Astrophysics with NewAthena: *Cosmology and Fundamental Physics with NewAthena: From Black Hole Growth to the Cosmological Expansion of the Universe to the Dark Matter Paradigm.*
 
 ---
 
