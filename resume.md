@@ -18,8 +18,6 @@ Since joining the CfA, I am undertaking a multi-wavelength study of a sample of 
 
 My Ph.D. focused on exploiting X-ray astronomy to probe nonstandard physics, namely: the parameter space of ultralight axions, which are well-motivated particles and compelling dark matter candidates, but as yet undetected; and the spin of massive black holes in AGN. My doctoral thesis set (i) some of the tightest constraints to date on the interaction of ultralight axions with photons and (ii) the only well-defined spin constraint for a very massive black hole studied with X-ray reflection spectroscopy to date. An online version of my Ph.D. thesis is available [here](https://www.repository.cam.ac.uk/items/73316b31-4841-4c8f-a1f4-5a6c6fcb0735).
 
-I am broadly interested in topics concerning the hot and energetic universe and non-standard physics, including: dual and binary AGN and radio jets in AGN; the physics of galaxy clusters; accretion onto compact objects, including massive black holes; AGN feedback; and dark matter and ultralight boson searches. 
-
 <hr>
 
 # Curriculum vitae and Publications
