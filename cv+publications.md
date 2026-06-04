@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV & Publications 
-permalink: /publications-and-cv/
+permalink: /cv+publications/
 main_nav: true
 ---
 
