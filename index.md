@@ -18,7 +18,7 @@ UK. For my master’s project, I developed an analytic model for predicting the 
 
 In my free time, I enjoy organising and getting involved in events targeted at disseminating scientific to members of the general public. While in Boston, I have had the pleasure of participating at several events in Spanish for the local Hispanic community. 
 
-I grew up in the island of Mallorca, Spain. Whenever I am not working, I like spending time outdoors. 
+I grew up in the island of Mallorca, Spain, and speak English, Catalan, and Spanish. Whenever I am not working, I like spending time outdoors. 
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
