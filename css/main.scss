@@ -70,19 +70,3 @@ hr {
   border-top: 1px solid rgba(0,0,0,0.3);
 }
 ;
-/* Make the navigation bar compact and fully blue */
-nav {
-  background: rgba(0, 102, 204, 0.9); /* deep blue, change as you like */
-  padding: 4px 0 !important;         /* compress vertical height */
-  height: 10px;                      /* fixed compact height */
-  display: flex;
-  align-items: center;               /* vertically center the links */
-  justify-content: center;
-  width: 100%;
-}
-
-/* Make the links fit the compact bar */
-nav a {
-  color: black !important;
-}
-
