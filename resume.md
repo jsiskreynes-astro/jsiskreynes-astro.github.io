@@ -21,9 +21,3 @@ My Ph.D. focused on exploiting X-ray astronomy to probe nonstandard physics, nam
 An online version of my Ph.D. thesis is available [here](https://www.repository.cam.ac.uk/items/73316b31-4841-4c8f-a1f4-5a6c6fcb0735).
 
 <hr>
-
-# Curriculum vitae and Publications
-
-Please see [my full CV]({{ site.url }}/assets/full_cv_jsiskreynes.pdf). 
-
-My publications are also available on my [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Sisk-Reyn%C3%A9s%2C%20J%C3%BAlia%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) and my [ORCID](https://orcid.org/0000-0003-3814-6796) profiles. 
