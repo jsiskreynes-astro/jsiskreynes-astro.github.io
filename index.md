@@ -4,7 +4,6 @@ title: Welcome!
 permalink: /
 main_nav: true
 ---
-[Home](index.md) • [Research](resume.md) • [Codes](codes.md) • [CV & Publications](publications-and-cv.md) • [Activities](posts.md) 
 
 ![alt text]({{ site.baseurl }}/assets/me.JPG "Profile Picture"){:.profile}
 
