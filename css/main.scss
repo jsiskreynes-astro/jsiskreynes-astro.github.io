@@ -70,3 +70,12 @@ hr {
   border-top: 1px solid rgba(0,0,0,0.3);
 }
 ;
+/* Style the top navigation bar */
+nav a {
+  color: black !important;
+  font-weight: 600;
+  background: rgba(230, 247, 255, 0.85); /* pale cyan to match your boxes */
+  padding: 10px 0;
+  border-radius: 0 0 10px 10px; /* optional: soft rounded bottom */
+  backdrop-filter: blur(4px);   /* optional: elegant glass effect */
+};
