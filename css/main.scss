@@ -51,5 +51,9 @@ p, ul, ol, li, blockquote {
 main, article, section, div {
   background: none !important;
 };
-
+hr {
+  margin: 16px auto;      /* reduce vertical spacing */
+  max-width: 700px;       /* keeps it aligned with your text boxes */
+  border-top: 1px solid rgba(0,0,0,0.3);
+}
 ;
