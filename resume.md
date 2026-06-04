@@ -14,9 +14,9 @@ I am interested in addressing a broad range of research topics, including (i) th
 
 Since joining the CfA, I am undertaking a multi-wavelength study of a sample of gravitationally lensed AGN in the high magnification regime with archival X-ray (Chandra) and optical (Gaia and/or HST) observations. Leveraging strong gravitational lenses as high-resolution telescopes, the methods I use can uniquely reveal the existence of sub-kiloparsec (sub-kpc) structure in the inner regions of cosmologically distant AGN -- pushing a frontier that is otherwise prohibited to direct imaging. Such sub-kpc structures could arise if offsets between distant emission regions in these distant AGN exist or may be attributable to the existence of compact AGN pairs -- both of which play a critical role in supermassive black hole and galaxy co-evolution. 
 
-_Publications: _
+Publications: 
 
-**1.** Determining the Spatial Origin of X-Ray and Optical Emission in the z = 3.1 Strongly Lensed Radio-quiet Quasar GraL J065904.1+162909 to Hundreds of Parsecs
+_Determining the Spatial Origin of X-Ray and Optical Emission in the z = 3.1 Strongly Lensed Radio-quiet Quasar GraL J065904.1+162909 to Hundreds of Parsecs_
 Authors: Sisk-Reynes, et al.
 Published as ApJ, 999, Issue 2, id.215, 12 pp. [Publisher](https://iopscience.iop.org/article/10.3847/1538-4357/ae3f2c) -- [arXiv](https://arxiv.org/pdf/2509.22797)
 
