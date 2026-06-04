@@ -11,6 +11,8 @@ I am an astronomer and postdoctoral research fellow at the Center for Astrophysi
 
 Since joining the CfA in the Fall of 2024, my research leverages the flux magnification and spatial amplification effects of strong gravitational lensing to zoom into the inner regions of cosmologically distant active galactic nuclei (AGN) at fine spatial scales. In particular, I am analyzing a sample of lensed quasars with archival X-ray, optical and/or radio data to determine the spatial origin of their respective emission regions with milliarcsecond precision. 
 
+Since June 2025, I am also serving as the co-chair of the Science Working Group in Cosmology and Fundamental Physics for the NewAthena flagship X-ray observatory, expected to launch in 2027.
+
 I completed a Ph.D. in astronomy at the Institute of Astronomy at The University of Cambridge in July 2024. My doctoral research centered on exploiting high-resolution X-ray spectroscopy of AGN to unveil fundamental physics, specifically: axions and the spin of massive black holes in AGN. Prior to my Ph.D., I earned a Master’s in Physics at The University of Manchester in the
 UK. For my master’s project, I developed an analytic model for predicting the thermal Sunyaev-Zel’dovich signal for different cluster pressure profiles.
 
