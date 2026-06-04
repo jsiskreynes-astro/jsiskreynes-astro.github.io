@@ -26,7 +26,7 @@ Galaxies, May 2026, 14(3), 50.
 - *Determining the spatial origin of X-ray and optical emission in the z= 3.1 strongly lensed radio-quiet quasar GraL J065904.1+162909 to hundreds of parsecs.*
 **Sisk-Reynés, Júlia M.**, et al.
 March 2026, ApJ, 999, 2, id.215
-[Publisher](https://iopscience.iop.org/article/10.3847/1538-4357/ae3f2c)  [arXiv]([https://arxiv.org/abs/2605.13949](https://arxiv.org/abs/2509.22797)
+[Publisher](https://iopscience.iop.org/article/10.3847/1538-4357/ae3f2c)  [arXiv](https://arxiv.org/abs/2605.13949)
 - *Getting more out of black hole superradiance: a statistically rigorous approach to ultralight boson constraints from black hole spin measurements.*
 Hoof, Sebastian; Marsh, David J. E.; **Sisk-Reynés, Júlia M.**, Matthews, James H. & Reynolds, Christopher S.
 February 2026, MNRAS, 546, 2, id.staf1564, 16 pp.
