@@ -14,24 +14,22 @@ nav_order: 5
 ---
 
 **July 2026 — EAS Annual Meeting, Lausanne (Contributed)**  
-*An X-ray pathway to connecting PTA‑Inferred SMBH Mergers with LISA sources: Lensed AGN Structure and Spin Evolution.*
+Preparing for multi-messenger observations with LISA and PTAs SYmposium (S4): *An X-ray pathway to connecting PTA‑Inferred SMBH Mergers with LISA sources: Lensed AGN Structure and Spin Evolution.*
 
 ---
 
 **June 2026 — AAS Annual Meeting, Pasadena (Invited)**  
-Special HEAD Session: *“Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays.”*    
-*Probing supermassive black hole spin demographics from X-rays.* Delivered by Prof. Christopher S. Reynolds on my behalf.
+Special HEAD Session on Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays: *Probing supermassive black hole spin demographics from X-rays.* Delivered by Prof. Christopher S. Reynolds on my behalf.
 
 ---
 
 **June 2026 — X-ray Universe 2026, Elche (Contributed)**  
-*Chandra spectroscopy confirms the tightest-separation dual AGN in a gravitationally lensed radio-loud system at z = 3.23.*  
-*Probing sub-kiloparsec X-ray structure in high-redshift AGN with strong gravitational lensing.*
+AGN, TDEs & QPEs session: *Chandra spectroscopy confirms the tightest-separation dual AGN in a gravitationally lensed radio-loud system at z = 3.23.*  
+AGN, TDEs & QPEs session: *Probing sub-kiloparsec X-ray structure in high-redshift AGN with strong gravitational lensing.*
 
 ---
 
 # Mentoring & Supervision
 
 **Southampton–CfA Master’s Students (2025–2026)**  
-I have supervised two talented Southampton–CfA exchange Master’s students during the 2025–2026 academic year.  
-Both students have now successfully completed and defended their Master’s theses (viva voce examinations) and will be starting Ph.D. programmes in the UK this Fall. 
+I have supervised two talented Southampton–CfA exchange Master’s students during the 2025–2026 academic year. Both students have now successfully completed and defended their Master’s theses (viva voce examinations) and will be starting Ph.D. programmes in the UK this Fall. 
