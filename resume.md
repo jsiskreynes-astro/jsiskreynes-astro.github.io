@@ -12,7 +12,7 @@ I am interested in addressing a broad range of research topics, including (i) th
 
 ## Strong gravitational lenses as cosmic amplifiers 
 
-Since joining the CfA, I am undertaking a multi-wavelength study of a sample of gravitationally lensed AGN in the high magnification regime with archival X-ray (Chandra) and optical (Gaia and/or HST) observations. Leveraging strong gravitational lenses as high-resolution telescopes, the methods I use can uniquely reveal the existence of sub-kiloparsec (sub-kpc) structure in the inner regions of cosmologically distant AGN -- pushing a frontier that is otherwise prohibited to direct imaging. Such sub-kpc structures could arise if offsets between distant emission regions in these distant AGN exist or may be attributable to the existence of compact AGN pairs -- both of which play a critical role in supermassive black hole and galaxy co-evolution. 
+Since joining the CfA, I am undertaking a multi-wavelength study of a sample of gravitationally lensed AGN in the high magnification regime with archival X-ray (_Chandra_) and optical (_Gaia_ and/or _HST_) observations. Leveraging strong gravitational lenses as high-resolution telescopes, the methods I use can uniquely reveal the existence of sub-kiloparsec (sub-kpc) structure in the inner regions of cosmologically distant AGN -- pushing a frontier that is otherwise prohibited to direct imaging. Such sub-kpc structures could arise if offsets between distant emission regions in these distant AGN exist or may be attributable to the existence of compact AGN pairs -- both of which play a critical role in supermassive black hole and galaxy co-evolution. 
 
 ## High-resolution X-ray spectroscopy of AGN as a probe of fundamental physics
 
