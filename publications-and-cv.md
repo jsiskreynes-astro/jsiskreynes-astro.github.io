@@ -13,9 +13,9 @@ You can download my full CV [here](assets/full_cv_jsiskreynes.pdf).
 
 You can view a comprehensive list of my publications on [NASA/ADS portal](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc)
 
-### Publications in preparation 
+### Currently working on... 
 
-Five, including a student-led publication on the X-ray structure of the Einstein zigzag lens (Eades, Charlotte, et al., in prep.), and two first-author papers to be included in the _NewAthena_ Special Issue which will be published in _JHEAp_ in 2027.  
+Five publications (three first-author, two as co-author, including a student-led publication on the X-ray structure of the Einstein zigzag lens (Eades, Charlotte, et al., in prep.). Two of these first-author papers will be included in the _NewAthena_ Special Issue that will be published in _JHEAp_ in 2027. These explore frontiers enabled by _NewAthena_ in the areas of supermassive black hole spin demographics from X-ray reflection spectroscopy, and searches for axion-like particles in galaxy cluster environments. 
 
 ### Refereed Publications
 - *Spin Demographics of Active Supermassive Black Holes: Updated Estimates from X-ray reflection and Future opportunities.* **Sisk-Reynés, Júlia M.**, et al.
