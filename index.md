@@ -20,7 +20,7 @@ In my free time, I enjoy organising and getting involved in events targeted at d
 
 I grew up in the island of Mallorca, Spain, and speak English, Catalan, and Spanish. Whenever I am not working, I like spending time outdoors. 
 
-# Contact 
+## Contact 
 
 Please get in touch by contacting me via email at [julia.sisk_reynes@cfa.harvard.edu](mailto:julia.sisk_reynes@cfa.harvard.edu).
 
