@@ -5,17 +5,17 @@ permalink: /resume/
 main_nav: true
 ---
 
-# CV & Publications
-
 ## Curriculum Vitae
 
 You can download my full CV [here](assets/full_cv_jsiskreynes.pdf).
 
----
-
 ## Publications
 
 You can view a comprehensive list of my publications on [NASA/ADS portal](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc)
+
+### Publications in preparation 
+
+Five, including a student-led publication on the X-ray structure of the Einstein zigzag lens (Eades, Charlotte, et al., in prep.), and two first-author papers to be included in the NewAthena Special Issue which will be published in _JHEAp_ in 2027.  
 
 ### Refereed Publications
 - *Spin Demographics of Active Supermassive Black Holes: Updated Estimates from X-ray reflection and Future opportunities.* **Sisk-Reynés, Júlia M.**, et al.
