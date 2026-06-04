@@ -33,5 +33,23 @@ main, article, section, div, p {
 /* Remove background from containers so no extra blue shows */
 main, article, section, div {
   background: none !important;
-}
+}; 
+
+/* Unified pale-blue boxes around all text elements */
+h1, h2, h3, h4, h5, h6,
+p, ul, ol, li, blockquote {
+  background: rgba(230, 247, 255, 0.85);
+  padding: 10px 14px;
+  border-radius: 10px;
+  margin: 12px auto;
+  max-width: 800px;
+  color: black;
+  line-height: 1.3;
+};
+
+/* Remove background from containers so no extra blue appears */
+main, article, section, div {
+  background: none !important;
+};
+
 ;
