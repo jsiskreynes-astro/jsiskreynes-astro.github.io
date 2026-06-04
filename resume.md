@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Research & CV 
+title: Research 
 permalink: /resume/
 main_nav: true
 ---
-
-# Research
 
 I am interested in addressing a broad range of research topics, including (i) the growth of supermassive black holes and galaxies over cosmic time, (ii) black hole astrophysics, and (iii) physics beyond the Standard Model.  
 
