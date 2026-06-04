@@ -23,9 +23,10 @@ body {
 /* Pale blue content boxes for readability */
 main, article, section, div, p {
   background: rgba(230, 247, 255, 0.85); /* translucent pale cyan */
-  padding: 15px;
+  padding: 12px 16px;
   border-radius: 10px;
-  margin-bottom: 20px;
-  color: black; /* ensures text stays readable */
+  margin: 20px auto;
+  display: inline-block; /* makes the box wrap tightly around text */
+  color: black; /* ensures readability */
 }
 ;
