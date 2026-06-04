@@ -1,15 +1,19 @@
 ---
 title: CV & Publications
 ---
-
-[Home](index.md) • [CV & Publications](publications.md) • [Activities](activities.md) • [Codes](codes.md)
+layout: page
+title: Research & CV 
+permalink: /resume/
+main_nav: true
+---
+<hr>
 
 # CV & Publications
 
 ## Curriculum Vitae
 You can download my full CV here:
 
-📄 [Download CV](assets/cv.pdf)
+📄 [Download CV](assets/full_cv_jsiskreynes.pdf)
 
 ---
 
