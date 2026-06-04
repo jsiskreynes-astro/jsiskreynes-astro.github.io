@@ -33,5 +33,5 @@ Special HEAD Session: *“Chirps and Flashes: Converging on Black Hole Spin from
 # Mentoring & Supervision
 
 **Southampton–CfA Master’s Students (2025–2026)**  
-I supervised two Southampton–CfA exchange Master’s students during the 2025–2026 academic year.  
-Both have now successfully completed and defended their Master’s theses (viva voce examinations) and will be starting Ph.D. programmes in the UK this Fall. 
+I have supervised two talented Southampton–CfA exchange Master’s students during the 2025–2026 academic year.  
+Both students have now successfully completed and defended their Master’s theses (viva voce examinations) and will be starting Ph.D. programmes in the UK this Fall. 
