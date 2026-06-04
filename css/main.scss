@@ -74,7 +74,7 @@ hr {
 nav {
   background: rgba(0, 102, 204, 0.9); /* deep blue, change as you like */
   padding: 4px 0 !important;         /* compress vertical height */
-  height: 40px;                      /* fixed compact height */
+  height: 10px;                      /* fixed compact height */
   display: flex;
   align-items: center;               /* vertically center the links */
   justify-content: center;
@@ -83,10 +83,7 @@ nav {
 
 /* Make the links fit the compact bar */
 nav a {
-  color: white !important;
+  color: black !important;
   padding: 0 12px !important;        /* remove vertical padding */
-  line-height: 40px;                 /* match the bar height */
-  font-weight: 600;
-  text-decoration: none;
 }
 
