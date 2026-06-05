@@ -6,7 +6,7 @@ main_nav: true
 nav_order: 2
 ---
 
-My research focuses on understanding the growth, structure, and fundamental physics of supermassive black holes (SMBH) and their galactic environments over cosmic time. I am also interested in using astrophsyical probes in probing beyond the STan I approach these questions by combining and galaxies over cosmic time, black hole astrophysics, and physics beyond the Standard Model.  
+My research focuses on understanding the growth, structure, and fundamental physics of supermassive black holes (SMBH) and their galactic environments over cosmic time. I am also interested in using astrophysical sources to probe physics beyond the Standard Model. I approach these questions by combining observational data, computational modeling, and statistical approaches, with a particular emphasis on strong gravitational lensing and high-energy astrophysics. 
 
 ## Strong gravitational lenses as cosmic amplifiers 
 
