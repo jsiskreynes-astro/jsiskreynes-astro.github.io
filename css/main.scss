@@ -13,6 +13,7 @@
 ;
 
 body {
+  text-align: center;
   background-image: url('/assets/h1821.jpeg'); /* Your background image */
   background-size: cover;
   background-position: center center;
@@ -20,6 +21,13 @@ body {
   color: white; /* Makes the text color white */
 }
 ;
+
+main,
+.page-content,
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 /* your container reset rules here */
 
