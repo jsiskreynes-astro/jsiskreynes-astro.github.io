@@ -100,3 +100,106 @@ nav a {
   font-weight: 600;
   text-decoration: none;
 }
+
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+// Includes Bourbon, Neat, and Bitters (thanks, thoughtbot!)
+@import
+  "bourbon/bourbon",
+  "base/base",
+  "neat/neat",
+  "layout"
+;
+
+body {
+  background-image: url('/assets/h1821.jpeg'); /* Your background image */
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  color: white; /* Makes the text color white */
+}
+;
+
+main,
+.page-content,
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* your container reset rules here */
+
+/* Pale blue content boxes for readability */
+main, article, section, div, p {
+  background: rgba(230, 247, 255, 0.85); /* translucent pale cyan */
+  padding: 12px 16px;
+  border-radius: 10px;
+  margin: 20px auto;
+  max-width: 800px;   /* keeps paragraphs centered and elegant */
+  color: black;       /* readable text */
+};
+
+/* Remove background from containers so no extra blue shows */
+main, article, section, div {
+  margin: 0;
+  padding: 0;
+}; 
+
+/* Unified pale-blue boxes around all text elements */
+h1, h2, h3, h4, h5, h6,
+p {
+  background: rgba(230, 247, 255, 0.85);
+  padding: 10px 14px;
+  border-radius: 10px;
+  margin: 12px auto;
+  max-width: 800px;
+  color: black;
+};
+
+ul, ol {
+  background: rgba(230, 247, 255, 0.85);
+  padding: 15px 35px;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 12px auto;
+  color: black;
+}
+
+li {
+  background: none;
+  padding: 0;
+  margin: 6px 0;
+}
+
+/* Remove background from containers so no extra blue appears */
+main, article, section, div {
+  background: none !important;
+};
+hr {
+  margin: 4px auto;      /* reduce vertical spacing */
+  max-width: 700px;       /* keeps it aligned with your text boxes */
+  border-top: 1px solid rgba(0,0,0,0.3);
+}
+;
+/* Shrink the top navigation bar */
+nav {
+  background: rgba(230, 247, 255, 0.85); /* or your preferred color */
+  height: 28px;                          /* compact height */
+  padding: 0 !important;                 /* remove extra vertical padding */
+  display: flex;
+  align-items: center;                   /* vertically center the links */
+  justify-content: center;
+}
+
+/* Shrink the links inside the bar */
+nav a {
+  padding: 0 10px !important;            /* remove vertical padding */
+  line-height: 28px !important;          /* match the nav height */
+  color: black !important;
+  font-weight: 600;
+  text-decoration: none;
+}
