@@ -8,7 +8,7 @@ nav_order: 3
 
 ## Curriculum Vitae
 
-You can download my full CV [here](assets/jsisreynes_full_full_cv_forwebpage.pdf).
+You can download my full CV [here](assets/jsisreynes_full_cv_forwebpage.pdf).
 
 ## Publications
 
