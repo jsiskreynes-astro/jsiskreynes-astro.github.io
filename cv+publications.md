@@ -21,8 +21,8 @@ Five publications (three first-author and two co-author). Three of these five ma
 - *Unravelling the supermassive black hole spin distribution with NewAthena.* <br>
 Boorman, Peter; Pitrowska, Asia; & **Sisk-Reynés, Júlia M.** [co-first authors], et al., in prep. <br>
 
-- *Probing axion-like particles using the X-ray transparency of galaxy clusters through NewAthena/X-IFU.*. <br>
-***Sisk-Reynés, Júlia M.**, et al., in prep. <br>
+- *Probing axion-like particles using the X-ray transparency of galaxy clusters through NewAthena/X-IFU.* <br>
+**Sisk-Reynés, Júlia M.**, et al., in prep. <br>
 
 These two papers will be included in the _NewAthena_ Special Issue to be published in JHEAp in 2027. They explore frontiers enabled by _NewAthena_ towards supermassive black hole spin demographics from X-ray reflection, and searches for axion-like particles in galaxy cluster enviornments.<br>
 
