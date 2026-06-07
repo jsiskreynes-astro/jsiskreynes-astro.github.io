@@ -57,8 +57,8 @@ Koss, Michael, et al. (including **Sisk-Reynés, Júlia M.**).  <br>
 October 2025, eprint arXiv:2511.00253.  <br>
 [arXiv](https://arxiv.org/abs/2511.00253)
 
-- *The detergent particle.* 
-**Sisk-Reynés, Júlia M.**.  <br>
+- *The detergent particle.* <br>
+**Sisk-Reynés, Júlia M.**  <br>
 Invited scientfic review article.  <br> 
 December 2024, Royal Astronomical Society's *Astronomy and Geophysics* magazine.  <br>
 [Publisher](https://academic.oup.com/astrogeo/article-abstract/65/6/6.30/7913889?redirectedFrom=fulltext&login=false)  <br>
