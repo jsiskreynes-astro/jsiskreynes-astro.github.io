@@ -19,7 +19,7 @@ You can view a comprehensive list of my publications on [NASA/ADS](https://ui.ad
 Five publications (three first-author and two co-author). Three of these five manuscripts are: 
 
 - *Unravelling the supermassive black hole spin distribution with NewAthena.* <br>
-Boorman, Peter; Pitrowska, Asia; & **Sisk-Reynés, Júlia M.** [co-first authors], et al., in prep. <br>
+Boorman, Peter; Pitrowska, Asia & **Sisk-Reynés, Júlia M.** [co-first authors], et al., in prep. <br>
 
 - *Probing axion-like particles using the X-ray transparency of galaxy clusters through NewAthena/X-IFU.* <br>
 **Sisk-Reynés, Júlia M.**, et al., in prep. <br>
@@ -48,12 +48,12 @@ February 2026, MNRAS, 546, 2, id.staf1564, 16 pp.  <br>
 [Publisher](https://academic.oup.com/mnras/article/546/2/staf1564/8258944?login=false)  [arXiv](https://arxiv.org/abs/2406.10337)
 
 - *Evidence for supermassive black hole binaries.*  <br>
-Krause, Martin G. H., et al. (including **Sisk-Reynés, Júlia M.**).  <br>
+Krause, Martin G. H., et al., including **Sisk-Reynés, Júlia M.** <br>
 November 2025, PASA, 42, id.e162, 18 pp.  <br>
 [Publisher](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/evidence-for-supermassive-black-hole-binaries/6A4690BF6A39C8DE7D735A700B0C63C8)  [arXiv](https://arxiv.org/abs/2510.07534) <br>
 
 - *The Advanced X-ray Imaging Satellite (AXIS) Community Science Book.*  <br>
-Koss, Michael, et al. (including **Sisk-Reynés, Júlia M.**).  <br>
+Koss, Michael, et al., including **Sisk-Reynés, Júlia M.** <br>
 October 2025, eprint arXiv:2511.00253.  <br>
 [arXiv](https://arxiv.org/abs/2511.00253)
 
