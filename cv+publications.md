@@ -8,7 +8,7 @@ nav_order: 3
 
 ## Curriculum Vitae
 
-You can download my full CV [here](assets/full_cv_jsiskreynes.pdf).
+You can download my full CV [here](assets/jsiskreynes_full_full_cv_forwebpage.pdf).
 
 ## Publications
 
