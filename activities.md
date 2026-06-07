@@ -10,8 +10,8 @@ This page highlights my recent academic updates, talks, and professional activit
 
 ## Upcoming Presentations
 
-**August 2026 — COSPAR Scientific Assembly, Florence (Invited)**  
-E1.18 session on "Revolutionising High-Energy Astrophysics with NewAthena."
+**August 2026 — COSPAR Scientific Assembly, Florence (Invited)**  <br>
+E1.18 session on "Revolutionising High-Energy Astrophysics with NewAthena."<br>
 Presentation: *Cosmology and Fundamental Physics with NewAthena: From Black Hole Growth to the Cosmological Expansion of the Universe to the Dark Matter Paradigm.*
 
 ---
