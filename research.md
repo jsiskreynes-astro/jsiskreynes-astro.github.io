@@ -18,8 +18,8 @@ Such sub-kpc structures may arise from offsets between different emission region
 
 My Ph.D. at the University of Cambridge usedhigh-resolution X-ray spectroscopy of AGN to probe nonstandard physics and the extreme, energetic environments around active SMBHs. In particular, I focused on: 
 
-Ultralight axions, which are well-motivated particles and compelling dark matter candidates, which may imprint spectral signatures in the spectrum of X-ray emission of AGN residing at the centers of galaxy clusters
-Black hole spin -- one of two fundamental parameter of astrophysical black holes (along with the black hole mass). Moreover, observed mass -- spin demographics of SMBH populations helps us unlock the cosmic growth histories of SMBHs and probe their accretion physics and AGN feedback. 
+- Ultralight axions, which are well-motivated particles and compelling dark matter candidates, which may imprint spectral signatures in the spectrum of X-ray emission of AGN residing at the centers of galaxy clusters
+- Black hole spin -- one of two fundamental parameter of astrophysical black holes (along with the black hole mass). Moreover, observed mass -- spin demographics of SMBH populations helps us unlock the cosmic growth histories of SMBHs and probe their accretion physics and AGN feedback. 
 
 My Ph.D. research set some of the most sensitive constraints to date on the interaction between ultralight axions and photons, and provided the only well-defined spin constraint for a very massive black hole studied with X-ray reflection spectroscopy to date. These frontiers demonstrate the power of AGN as laboratories for fundamental physics and extreme-gravity astrophysics. 
 
