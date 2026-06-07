@@ -22,20 +22,19 @@ Five publications (three first-author and two co-author, including a student-led
 - *Probing axion-like particles using the X-ray transparency of galaxy clusters through NewAthena/X-IFU* (**Sisk-Reynés, Júlia M.**, et al., in prep.). <br> 
 - *Unlocking the Milliarcsecond X-Ray Structure of z = 2.38 Quasar J1721+8842, the Einstein Zig-Zag Lens, with Strong Gravitational Lensing* (second-author, student-led, in prep.).  <br>
 
-The first two papers will be included in the _NewAthena_ Special Issue to be published in JHEAp in 2027. These works explore frontiers enabled by _NewAtehna_ toward: <br>
-
-- supermassive black hole spin demographics from X-ray reflection, and  <br>
+The first two papers will be included in the _NewAthena_ Special Issue to be published in JHEAp in 2027. These works explore frontiers enabled by _NewAthena_ toward:
+- supermassive black hole spin demographics from X-ray reflection,  <br>
 - searches for axion-like particles in galaxy cluster enviornments.  <br>
   
 ### Refereed Publications
 - *Spin Demographics of Active Supermassive Black Holes: Updated Estimates from X-ray reflection and Future opportunities.* <br>
-**Sisk-Reynés, Júlia M.**, et al.
+**Sisk-Reynés, Júlia M.**, et al. <br>
 Invited review. <br>
 Galaxies, May 2026, 14(3), 50. <br>
 [Publisher](https://www.mdpi.com/2075-4434/14/3/50)  [arXiv](https://arxiv.org/abs/2605.13949)  <br>
 
 - *Determining the spatial origin of X-ray and optical emission in the z= 3.1 strongly lensed radio-quiet quasar GraL J065904.1+162909 to hundreds of parsecs.*  <br>
-**Sisk-Reynés, Júlia M.**, et al.  <br>
+**Sisk-Reynés, Júlia M.**, et al. <br>
 March 2026, ApJ, 999, 2, id.215  <br>
 [Publisher](https://iopscience.iop.org/article/10.3847/1538-4357/ae3f2c)  [arXiv](https://arxiv.org/abs/2605.13949)  <br>
 
@@ -54,7 +53,7 @@ Koss, Michael, et al. (including **Sisk-Reynés, Júlia M.**).  <br>
 October 2025, eprint arXiv:2511.00253.  <br>
 [arXiv](https://arxiv.org/abs/2511.00253)
 
-- *The detergent particle.*  <br>  
+- *The detergent particle.* 
 **Sisk-Reynés, Júlia M.**.  <br>
 Invited scientfic review article.  <br> 
 December 2024, Royal Astronomical Society's *Astronomy and Geophysics* magazine.  <br>
