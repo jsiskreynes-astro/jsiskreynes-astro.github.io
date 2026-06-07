@@ -17,7 +17,7 @@ Presentation: *Cosmology and Fundamental Physics with NewAthena: From Black Hole
 ---
 
 **July 2026 — EAS Annual Meeting, Lausanne (Contributed)** <br> 
-Symposium 4 on "Preparing for multi-messenger observations with LISA and PTAs SYmposium". <br>
+Symposium 4 on "Preparing for multi-messenger observations with LISA and PTAs". <br>
 Presentation: *An X-ray pathway to connecting PTA‑Inferred SMBH Mergers with LISA sources: Lensed AGN Structure and Spin Evolution.*
 
 ---
