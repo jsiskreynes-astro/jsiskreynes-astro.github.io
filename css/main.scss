@@ -24,30 +24,21 @@ main,
   margin-right: auto;
 }
 
-/* Pale blue content boxes for readability */
+/* Remove all text boxes and make text visible */
 main,
 article,
 section,
 div,
 p {
   background: none;
-  padding: 12px 16px;
-  border-radius: 10px;
+  padding: 0;
+  border-radius: 0;
   margin: 20px auto;
   max-width: 800px;
-  color: black;
+  color: white;
 }
 
-/* Remove background from containers */
-main,
-article,
-section,
-div {
-  margin: 0;
-  padding: 0;
-}
-
-/* Unified text styling — no boxes, text visible */
+/* Restore headings and paragraphs */
 h1,
 h2,
 h3,
@@ -59,8 +50,8 @@ p {
   padding: 0;
   margin: 12px auto;
   max-width: 800px;
-  color: white;   /* visible on dark backgrounds */
-  display: block; /* restore visibility */
+  color: white;
+  display: block;
 }
 
 ul,
