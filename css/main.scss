@@ -101,12 +101,13 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 100%;
 }
 
 nav a {
   padding: 0 10px;
   line-height: 28px;
-  color: black;
+  color: white;
   font-weight: 600;
   text-decoration: none;
 }
