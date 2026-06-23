@@ -45,6 +45,18 @@ jekyll-archives:
     category: '/category/:name/'
     tag: '/tag/:name/'
 
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "CV & Publications"
+    url: "/cv-publications/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Codes"
+    url: "/codes/"
+  - title: "Activities"
+    url: "/activities/"
+
 # Disqus comments
 # disqus_shortname: bencentra
 
