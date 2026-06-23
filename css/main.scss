@@ -47,7 +47,7 @@ div {
   padding: 0;
 }
 
-/* Unified pale-blue boxes around text elements */
+/* Unified text styling — no boxes, text visible */
 h1,
 h2,
 h3,
@@ -56,7 +56,11 @@ h5,
 h6,
 p {
   background: none;
-  display: none !important;
+  padding: 0;
+  margin: 12px auto;
+  max-width: 800px;
+  color: white;   /* visible on dark backgrounds */
+  display: block; /* restore visibility */
 }
 
 ul,
