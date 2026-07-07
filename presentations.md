@@ -7,7 +7,7 @@ nav_order: 6
 ---
 
 ---
-title: Presentations
+title: Presentations 
 ---
 
 This provides an exhaustive list of my invited and contributed presentations at conferences, workshops, seminars, and mission collaborations since 2022.
