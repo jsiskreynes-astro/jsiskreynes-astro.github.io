@@ -22,7 +22,7 @@ Representing *NewAthena* SWG-6.
 
 **Probing supermassive black hole spin demographics from X-rays.**  
 Special HEAD Session on “Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays”, AAS/HEAD Summer meeting, *Pasadena, CA, USA*.
-Devilevered by Prof. Christopher S. Reynolds on my behalf. 
+Delivered by Prof. Christopher S. Reynolds on my behalf. 
 **June 2026**
 
 **Resolving distant active galactic nuclei at fine spatial scales with strong gravitational lensing.**  
