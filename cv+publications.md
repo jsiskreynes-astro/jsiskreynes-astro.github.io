@@ -16,19 +16,13 @@ You can view a comprehensive list of my publications on [NASA/ADS](https://ui.ad
 
 ### Currently working on... 
 
-Five publications (three first-author and two co-author). Three of these five manuscripts are: 
+Five publications (three first-author and two co-author), including two papers that will be included in the _NewAthena_ Special Issue to be published in JHEAp in 2027. These explore frontiers enabled by _NewAthena_ towards supermassive black hole spin demographics from X-ray reflection, and searches for axion-like particles in galaxy cluster enviornments.<br>
 
 - *Unravelling the supermassive black hole spin distribution with NewAthena.* <br>
 Boorman, Peter; Pitrowska, Asia & **Sisk-Reynés, Júlia M.** [co-first authors], et al., in prep. <br>
 
 - *Probing axion-like particles using the X-ray transparency of galaxy clusters through NewAthena/X-IFU.* <br>
 **Sisk-Reynés, Júlia M.**, et al., in prep. <br>
-
-These two papers will be included in the _NewAthena_ Special Issue to be published in JHEAp in 2027. They explore frontiers enabled by _NewAthena_ towards supermassive black hole spin demographics from X-ray reflection, and searches for axion-like particles in galaxy cluster enviornments.<br>
-
-- *Unlocking the Milliarcsecond X-Ray Structure of z = 2.38 Quasar J1721+8842, the Einstein Zig-Zag Lens, with Strong Gravitational Lensing.* <br>
-Eades, Charlotte; **Sisk-Reynés, Júlia M.**, et al., in prep. (student-led). <br>
-
   
 ### Refereed Publications
 - *Spin Demographics of Active Supermassive Black Holes: Updated Estimates from X-ray reflection and Future opportunities.* <br>
