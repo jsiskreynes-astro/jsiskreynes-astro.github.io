@@ -5,13 +5,9 @@ permalink: /presentations/
 main_nav: true
 nav_order: 6
 ---
-
-title: Presentations 
----
-
-This provides an exhaustive list of my invited and contributed presentations at conferences, workshops, seminars, and mission collaborations since 2022.
-
 Since **May 2022**, I have given **37 presentations** (17 invited and 17 contributed) at international conferences, workshops, mission collaborations, and institutional seminars.
+
+This page provides an exhaustive list of these presentations.
 
 ---
 
