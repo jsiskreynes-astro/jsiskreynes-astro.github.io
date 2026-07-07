@@ -8,13 +8,15 @@ nav_order: 5
 
 This page highlights my recent academic updates, talks, and professional activities.
 
+If you have any questions about research opportunities, my talks, or participation at outreach events, please contact me at [mailto:][julia.sisk_reynes@cfa.harvard.edu].
+
 ## Upcoming Presentations
 
 **August 2026 — COSPAR Scientific Assembly, Florence (Invited)**  <br>
 E1.18 session on "Revolutionising High-Energy Astrophysics with NewAthena."<br>
 Presentation: *Cosmology and Fundamental Physics with NewAthena: From Black Hole Growth to the Cosmological Expansion of the Universe to the Dark Matter Paradigm.*
 
----
+## Recent Presentations
 
 **July 2026 — EAS Annual Meeting, Lausanne (Contributed)** <br> 
 Symposium 4 on "Preparing for multi-messenger observations with LISA and PTAs". <br>
@@ -40,3 +42,4 @@ Presentation (ii): *Probing sub-kiloparsec X-ray structure in high-redshift AGN 
 
 **Southampton–CfA Master’s Students (2025–2026)**  <br>
 I have supervised two Southampton–CfA exchange Master’s students during the 2025–2026 academic year. Both students have now successfully completed and defended their Master’s theses (viva voce examinations) and will begin Ph.D. programs in the UK this Fall. 
+
