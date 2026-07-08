@@ -19,44 +19,44 @@ This page provides an exhaustive list of these presentations.
 E1.18 Session at the COSPAR 2026 Scientific Assembly. <br>
 *Florence, Italy*.  
 Representing *NewAthena* Science Workign Group 6. <br>
-August 2026.
+August.
 
 **Probing supermassive black hole spin demographics from X-rays.** <br>
 Special HEAD Session on “Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays” at the 248th AAS meeting. <br>
 Delivered by Prof. Christopher S. Reynolds on my behalf. <br>
-June 2026.
+June.
 
 **Resolving distant active galactic nuclei at fine spatial scales with strong gravitational lensing.**  <br>
 MIT Monday Afternoon talks, MIT Kavli Institute. <br>
 *Cambridge, MA, USA*. <br>
-May 2026. <br>
+May. <br>
 
 **The spin demographics of active supermassive black holes from X-rays.**   <br>
 Black Hole Explorer AGN Demographics Science Working Group. <br>
 *Virtual*. <br> 
-March 2026 <br> 
+March. <br> 
 
 **Resolving cosmologically distant AGN at parsec scales with strong gravitational lensing.**  <br>
 UMBRELA Dialogues, Center for Astrophysics | Harvard & Smithsonian. <br>
 *Cambridge, MA, USA*. <br>
-March 2026. <br>
+March. <br>
 
 ### ⭐ Contributed
 
 **An X-ray pathway to connecting PTA‑Inferred SMBH Mergers with LISA sources: Lensed AGN Structure and Spin Evolution.**  
 Symposium 4 on “Preparing for multi-messenger observations with LISA and PTAs” at the European Astronomical Society 2026 Annual Meeting.  <br>
 *Lausanne, Switzerland*. <br>
-July 2026.
+July.
 
 **Chandra spectroscopy confirms the tightest-separation dual AGN in a gravitationally lensed radio-loud system at z = 3.23.**   <br>
 AGN, TDEs & QPEs session at the X-ray Universe 2026.  <br>
 *Elche, Spain*.  <br>
-June 2026.  <br>
+June.  <br>
 
 **Probing sub-kiloparsec X-ray structure in high-redshift AGN with strong gravitational lensing.**   <br>
 AGN, TDEs & QPEs session at the X-ray Universe 2026.  <br>
 *Elche, Spain*.   <br>
-June 2026.  <br>
+June.  <br>
 
 ## 2025
 
@@ -65,60 +65,60 @@ June 2026.  <br>
 **Probing a quadruply-lensed quasar at z = 3.1 with a multi-wavelength approach.**  <br> 
 J. Lin Dark Matter Group Meeting, Chinese University of Hong Kong. <br> 
 *Virtual*.  <br> 
-December 2025.<br> 
+December.<br> 
 
 **Colloquium: Probing fundamental physics with X-ray astronomy.**  <br> 
 Universidad Nacional Autónoma de México, México. <br> 
 *Virtual*.<br> 
-October 2025. <br> 
+October. <br> 
 
 **NewAthena advancements to Cosmology and Fundamental Physics.**  <br> 
 NewAthena Splinter Session at the HEAD 2025 Meeting. <br> 
 *St. Louis, Missouri*. <br> 
 Representing *NewAthena* Science Working Group 6. <br> 
-October 2025. <br> 
+October. <br> 
 
 **A survey of supermassive black hole spins with the AXIS Deep Survey.**  <br> 
 AXIS AGN Science Working Group. <br> 
 *Virtual*.  
-May 2025. <br> 
+May. <br> 
 
 **Using high-resolution X-ray spectroscopy to probe fundamental physics.**  <br> 
 High Energy Astrophysics Seminar at NASA Goddard Space Flight Center. <br> 
 *Greenbelt, MD, USA*. <br> 
-January 2025. <br> 
+January. <br> 
 
 ### ⭐ Contributed
 
 **Leveraging X-ray observations of lensed quasars to probe morphology at high-z.** <br> 
 High-z Group Meeting, Kavli Institute for Cosmology, University of Cambridge. <br> 
 *Cambridge, UK*. <br> 
-July 2025. <br> 
+July. <br> 
 
 **Leveraging X-ray observations of lensed quasars to probe morphology at high-z.** <br>   
 Astrophysics Department Seminar, Imperial College London. <br> 
 *London, UK*. <br> 
-July 2025. <br> 
+July. <br> 
 
 **Leveraging X-ray observations of quadruply-lensed quasars at high-z.** <br> 
 Symposium on lensing at the European Astronomical Society 2025 Annual Meeting.<br> 
 *Cork, Ireland*.<br> 
-June 2025.
+June.
 
 **Probing axions with X-ray observations of active galactic nuclei.**  <br> 
 ITC Luncheon, Center for Astrophysics | Harvard & Smithsonian. <br> 
 *Cambridge, MA, USA*. <br> 
-May 2025. <br> 
+May. <br> 
 
 **Leveraging X-ray observations of lensed quasars for milliarcsecond X-ray astrometry**  <br> 
 Strong Lensing Workshop at the Center for Astrophysics | Harvard & Smithsonian. <br>
 *Cambridge, MA, USA*. <br> 
-March 2025. <br> 
+March. <br> 
 
 **Unveiling fundamental physics with high-resolution X-ray spectroscopy of AGN.**  <br> 
 Dissertation Talk at the 245th Meeting of the American Astronomical Society. <br>  
 *National Harbor, MD, USA*.<br> 
-January 2025
+January.
 
 ---
 
@@ -126,28 +126,33 @@ January 2025
 
 ### ⭐⭐ Invited
 
-**Probing axion-like particles with X-ray spectra of active galactic nuclei.**  
-Axion Journal Club, Oskar Klein Centre, Stockholm University, *Stockholm, Sweden*.  
-**June 2024**
+**Probing axion-like particles with X-ray spectra of active galactic nuclei.**  <br> 
+Axion Journal Club, Oskar Klein Centre, Stockholm University. <br> 
+*Stockholm, Sweden*.  <br> 
+June. <br> 
 
-**Using high-resolution X-ray spectroscopy to probe fundamental physics.**  
-High Energy Astrophysics Seminar, Max Planck Institute for Extraterrestrial Physics, *Garching, Germany*.
-**April 2024**
+**Using high-resolution X-ray spectroscopy to probe fundamental physics.**  <br> 
+High Energy Astrophysics Seminar, Max Planck Institute for Extraterrestrial Physics. <br> 
+*Garching, Germany*. <br> 
+April. <br> 
 
-**Using high-resolution X-ray spectroscopy to probe fundamental physics.**  
-High Energy Astrophysics Division Seminar, Center for Astrophysics | Harvard & Smithsonian, Cambridge, MA, USA, *virtual*. 
-**March 2024**
+**Using high-resolution X-ray spectroscopy to probe fundamental physics.**  <br> 
+High Energy Astrophysics Division Seminar, Center for Astrophysics | Harvard & Smithsonian, Cambridge, MA, USA. <br>
+*Virtual*.  <br>
+March. <br>
 
 ### ⭐ Contributed
 
-**Unveiling dark matter with Chandra.**  
-"25 Years of Chandra" Conference, *Boston, MA, USA*.
-**December 2024**
+**Unveiling dark matter with Chandra.**   <br>
+"25 Years of Chandra" Conference. <br>
+*Boston, MA, USA*.
+December. <br>
 
-**Probing axion parameter space with X-ray observations of active galactic nuclei**  
-Dark Matter in Astrophysical Laboratories Workshop, Kavli Institute for Cosmology, University of Cambridge, *Cambridge, UK*.
-Invited panelist.
-**June 2024**
+**Probing axion parameter space with X-ray observations of active galactic nuclei.**   <br>
+Dark Matter in Astrophysical Laboratories Workshop, Kavli Institute for Cosmology, University of Cambridge. <br>
+Contributing speaker and invited panelist. <br>
+*Cambridge, UK*. <br>
+June. <br>
 
 ---
 
@@ -155,43 +160,52 @@ Invited panelist.
 
 ### ⭐⭐ Invited
 
-**Constraining Physics Beyond the Standard Model with Athena.**  
-NewAthena UK Science Community Annual Meeting, *Edinburgh, UK*.  
-**September 2023**
+**Constraining Physics Beyond the Standard Model with Athena.**  <br>
+NewAthena UK Science Community Annual Meeting. <br>
+*Edinburgh, UK*.  <br>
+September.
 
-**Probing axion-like particles with quasar X-ray spectra.**  
-Tea Talks, Kavli Institute for Astroparticle Physics and Cosmology, Stanford University, CA, USA, *virtual*. 
-**December 2023**
+**Probing axion-like particles with quasar X-ray spectra.**  <br>
+Tea Talks, Kavli Institute for Astroparticle Physics and Cosmology, Stanford University, CA, USA. <br>
+*Virtual*. <br>
+December. <br>
 
-**Current and future bounds on axion-like particles: prospects for STROBE-X.**  
-STROBE-X Science Working Group Seminar, *virtual*.  
-**May 2023**
+**Current and future bounds on axion-like particles: prospects for STROBE-X.**  <br>
+STROBE-X Science Community Seminar. <br>
+*Virtual*.  <br> 
+May. <br>
 
-**Current and future constraints on light axion-like particles: prospects for AXIS.**  
-AXIS Science Working Group Seminar, *virtual*.  
-**March 2023**
+**Current and future constraints on light axion-like particles: prospects for AXIS.**  <br>
+AXIS Science Community Seminar. <br>
+*Virtual*.  <br>
+March. <br>
 
-**New bounds on axion-like particles with Chandra observations of H1821+643.**  
-Paul Murdin Prize Recipient Talk, Institute of Astronomy, University of Cambridge, *Cambridge, UK*. 
-**January 2023**
+**New bounds on axion-like particles with Chandra observations of H1821+643.**  <br>
+Paul Murdin Prize Recipient Talk, Institute of Astronomy, University of Cambridge. <br>
+*Cambridge, UK*. <br> 
+January. <br>
 
 ### ⭐ Contributed
 
-**A Bayesian model for the observed distribution of supermassive black hole spins**  
-"New Results in X-ray Astronomy UK 2023" Annual Conference, *Edinburgh, UK*.
-**September 2023**
+**A Bayesian model for the observed distribution of supermassive black hole spins.**  <br>
+New Results in X-ray Astronomy UK 2023 Annual Conference. <br>
+*Edinburgh, UK*. <br>
+September. <br>
 
-**Probing Physics Beyond the Standard Model with current and future X-ray observatories.**  
-"Current & future telescopes symposium", The X-ray Universe 2023, *Athens, Greece*.
-**June 2023**
+**Probing Physics Beyond the Standard Model with current and future X-ray observatories.**  <br>
+"Current & future telescopes symposium", The X-ray Universe 2023. <br> 
+*Athens, Greece*. <br>
+June. <br>
 
-**A Bayesian model for the observed distribution of supermassive black hole spins**  
-"AGN symposium", The X-ray Universe 2023, *Athens, Greece*.
-**June 2023**
+**A Bayesian model for the observed distribution of supermassive black hole spins.**  <br>
+AGN symposium, The X-ray Universe 2023. <br> 
+*Athens, Greece*. <br>
+June. <br>
 
-**Probing supermassive black hole spins from X-ray reflection spectroscopy**  
-Royal Astronomical Society Specialist Meeting on Supermassive Black Hole Binaries, *London, UK*. 
-**April 2023**
+**Probing supermassive black hole spins from X-ray reflection spectroscopy.**  <br>
+Royal Astronomical Society Specialist Meeting on Supermassive Black Hole Binaries. <br>
+*London, UK*. <br>
+April.
 
 ---
 
@@ -199,40 +213,49 @@ Royal Astronomical Society Specialist Meeting on Supermassive Black Hole Binarie
 
 ### ⭐⭐ Invited
 
-**Current and future constraints on light axion-like particles: prospects for LEM.**  
-LEM Galaxies Science Working Group Seminar, *virtual*.
-**December 2022**
+**Current and future constraints on light axion-like particles: prospects for LEM.** <br>  
+LEM Galaxies Science Working Group Seminar. <br>
+*Virtual*. <br>
+December. <br>
 
-**Setting tight bounds on light axions with Chandra/Grating spectra of quasars.**  
-Chandra/HETG Group Meeting, MIT Kavli Institute, *Cambridge, MA, USA*.
-**October 2022**
+**Setting tight bounds on light axions with Chandra/Grating spectra of quasars.**  <br>
+Chandra/HETG Group Meeting, MIT Kavli Institute. <br> 
+*Cambridge, MA, USA*.
+October.
 
-**Setting tight bounds on light axions with Chandra observations of quasars.**  
-High Energy Astrophysics Division Special Seminar, Center for Astrophysics | Harvard & Smithsonian, *Cambridge, MA, USA*.  
-**October 2022**
+**Setting tight bounds on light axions with Chandra observations of quasars.**  <br>
+High Energy Astrophysics Division Special Seminar, Center for Astrophysics | Harvard & Smithsonian. <br>
+*Cambridge, MA, USA*.  <br>
+October. <br>
 
-**Setting tight bounds on light axions with Chandra observations of quasars.**  
-Astrophysics Colloquium, University of Maryland College Park, *College Park, MD, USA*.
-**October 2022**
+**Setting tight bounds on light axions with Chandra observations of quasars.**  <br>
+Astrophysics Colloquium, University of Maryland College Park. <br> 
+*College Park, MD, USA*. <br>
+October. <br>
 
 ### ⭐ Contributed
 
-**Probing Physics Beyond the Standard Model with current and future X-ray observatories.**  
-3rd Scientific Conference Dedicated to the Athena Observatory, *Barcelona, Spain*.
-**November 2022**
+**Probing Physics Beyond the Standard Model with current and future X-ray observatories.**  <br>
+3rd Scientific Conference Dedicated to the Athena Observatory. <br>
+Barcelona, Spain. <br>
+November. <br>
 
-**Colloquium: Setting tight bounds on axions with X-ray observations of AGN.**  
-"Recent Progress in Axion Theory and Experiment" Workshop, Institute for Particle Physics Phenomenology, *Durham, UK*. 
-**September 2022**
+**Colloquium: Setting tight bounds on axions with X-ray observations of AGN.**  <br>
+"Recent Progress in Axion Theory and Experiment" Workshop, Institute for Particle Physics Phenomenology, University of Durham. <br>
+*Durham, UK*. <br>
+September. <br>
 
-**New tight bounds on axion-like particles with X-ray observations of H1821+643.**  
-Athena Symposium at European Astronomical Society 2022 Annual Meeting, *Valencia, Spain*.
-**July 2022**
+**New tight bounds on axion-like particles with X-ray observations of H1821+643.**  <br>
+Athena Symposium at European Astronomical Society 2022 Annual Meeting. <br>
+*Valencia, Spain*. <br>
+July. <br>
 
-**A moderate spin for the high-mass supermassive black hole in H1821+643**  
-XMM-Newton Annual Conference, ESAC, *Madrid, Spain*.
-**June 2022**
+**A moderate spin for the high-mass supermassive black hole in H1821+643.** <br>
+XMM-Newton Annual Conference, ESAC. <br>
+*Madrid, Spain*. <br>
+June. <br>
 
-**A moderate spin for the high-mass supermassive black hole in H1821+643.**  
-New Results in X-ray Astronomy UK 2022 Annual Conference, *Leicester, UK*.
-**May 2022**
+**A moderate spin for the high-mass supermassive black hole in H1821+643.**  <br>
+New Results in X-ray Astronomy UK 2022 Annual Conference. <br>
+*Leicester, UK*. <br>
+May. <br>
