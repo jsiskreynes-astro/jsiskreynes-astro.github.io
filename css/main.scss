@@ -137,3 +137,17 @@ a {
 a:hover {
   opacity: 0.7;
 }
+
+@media print {
+
+  hr {
+    border: none;
+    border-top: 1pt solid #000;
+    margin: 12pt 0;
+  }
+
+  .site-header {
+    border-bottom: 1pt solid #000 !important;
+  }
+
+}
