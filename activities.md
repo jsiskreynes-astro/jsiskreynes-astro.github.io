@@ -6,9 +6,7 @@ main_nav: true
 nav_order: 5
 ---
 
-This page highlights my recent academic updates, talks, and professional activities.
-
-If you have any questions about research opportunities, my talks, or participation at outreach events, please contact me at [julia.sisk_reynes@cfa.harvard.edu](mailto:julia.sisk_reynes@cfa.harvard.edu).
+This page highlights recent academic updates, talks, and professional activities.
 
 ## Upcoming Presentations
 
