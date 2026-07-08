@@ -32,7 +32,7 @@ MIT Monday Afternoon talks, MIT Kavli Institute. <br>
 May 2026. <br>
 
 **The spin demographics of active supermassive black holes from X-rays.**   <br>
-Black Hole Explorer AGN Demographics Science Working Group.
+Black Hole Explorer AGN Demographics Science Working Group. <br>
 *Virtual*. <br> 
 March 2026 <br> 
 
@@ -44,16 +44,19 @@ March 2026. <br>
 ### ⭐ Contributed
 
 **An X-ray pathway to connecting PTA‑Inferred SMBH Mergers with LISA sources: Lensed AGN Structure and Spin Evolution.**  
-Symposium 4 on “Preparing for multi-messenger observations with LISA and PTAs”, European Astronomical Society 2026 Annual Meeting, *Lausanne, Switzerland*.
-**July 2026**
+Symposium 4 on “Preparing for multi-messenger observations with LISA and PTAs” at the European Astronomical Society 2026 Annual Meeting.  <br>
+*Lausanne, Switzerland*. <br>
+July 2026.
 
-**Chandra spectroscopy confirms the tightest-separation dual AGN in a gravitationally lensed radio-loud system at z = 3.23.**  
-AGN, TDEs & QPEs session at the X-ray Universe 2026, *Elche, Spain*. 
-**June 2026**
+**Chandra spectroscopy confirms the tightest-separation dual AGN in a gravitationally lensed radio-loud system at z = 3.23.**   <br>
+AGN, TDEs & QPEs session at the X-ray Universe 2026.  <br>
+*Elche, Spain*.  <br>
+June 2026.  <br>
 
-**Probing sub-kiloparsec X-ray structure in high-redshift AGN with strong gravitational lensing.**  
-AGN, TDEs & QPEs session at the X-ray Universe 2026, *Elche, Spain*. 
-**June 2026**
+**Probing sub-kiloparsec X-ray structure in high-redshift AGN with strong gravitational lensing.**   <br>
+AGN, TDEs & QPEs session at the X-ray Universe 2026.  <br>
+*Elche, Spain*.   <br>
+June 2026.  <br>
 
 ## 2025
 
