@@ -16,7 +16,7 @@ You can view a comprehensive list of my publications on [NASA/ADS](https://ui.ad
 
 ### Currently working on... 
 
-Five publications (three first-author and two co-author), including two first-author publications that will be included in the _NewAthena_ Special Issue to be published in JHEAp in 2027. These papers explore frontiers enabled by _NewAthena_ towards supermassive black hole spin demographics from X-ray reflection, and searches for axion-like particles in galaxy cluster enviornments.<br>
+Five publications (three first-author and two co-author), including two first-author publications that will be included in a JHEAp _NewAthena_ Special Issue that will be published in 2027. These two publications explore frontiers enabled by _NewAthena_ towards supermassive black hole spin demographics from X-ray reflection, and searches for axion-like particles in galaxy cluster enviornments.<br>
   
 ### Refereed Publications
 - *Spin Demographics of Active Supermassive Black Holes: Updated Estimates from X-ray reflection and Future opportunities.* <br>
