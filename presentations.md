@@ -5,7 +5,7 @@ permalink: /presentations/
 main_nav: true
 nav_order: 6
 ---
-Since **May 2022**, I have given **41 presentations** (21 invited and 20 contributed) at international conferences, workshops, mission collaborations, and institutional seminars.
+Since May 2022, I have given 41 presentations (21 invited and 20 contributed) at international conferences, workshops, mission collaborations, and institutional seminars.
 
 This page provides an exhaustive list of these presentations.
 
@@ -15,7 +15,7 @@ This page provides an exhaustive list of these presentations.
 
 ### ⭐⭐ Invited
 
-**Cosmology and Fundamental Physics with NewAthena: From Black Hole Growth to the Cosmological Expansion of the Universe to the Dark Matter Paradigm.**  
+"Cosmology and Fundamental Physics with NewAthena: From Black Hole Growth to the Cosmological Expansion of the Universe to the Dark Matter Paradigm." <br>
 E1.18 Session at the COSPAR 2026 Scientific Assembly, *Florence, Italy*.  
 Representing *NewAthena* SWG-6. 
 **August 2026**
