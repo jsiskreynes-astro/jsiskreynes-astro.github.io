@@ -1,182 +1,105 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
 @charset "utf-8";
 
-// Import partials
+// Import partials from `sass_dir` (defaults to `_sass`)
+// Includes Bourbon, Neat, and Bitters (thanks, thoughtbot!)
 @import
   "bourbon/bourbon",
   "base/base",
   "neat/neat",
   "layout";
 
-/* ==========================================
-   Theme
-   ========================================== */
-
-:root {
-  --bg: #ffffff;
-  --text: #222222;
-  --link: #222222;
-  --rule: #d9d9d9;
-}
-
 body {
-  background: var(--bg);
-  color: var(--text);
-  line-height: 1.7;
+  background: none;
+  color: black;
 }
 
-/* ==========================================
-   Layout
-   ========================================== */
 
-.wrapper,
+main,
 .page-content,
-main {
-  max-width: 850px;
-  margin: 0 auto;
-  padding: 0 2rem;
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* ==========================================
-   Homepage
-   ========================================== */
-
-.home-page {
-  max-width: 850px;
-  margin: 0 auto;
-  text-align: center;
+/* Remove all text boxes and make text visible */
+main,
+article,
+section,
+div,
+p {
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  margin: 20px auto;
+  max-width: 800px;
+  color: black;
 }
 
-/* Keep headings centered */
-
-.home-page h1,
-.home-page h2,
-.home-page h3 {
-  text-align: center;
-}
-
-/* Paragraphs centered (change to left if preferred) */
-
-.home-page p,
-.home-page li {
-  text-align: center;
-}
-
-/* ==========================================
-   Profile picture
-   ========================================== */
-
-.profile {
-  width: 220px;
-  max-width: 100%;
-  height: auto;
-  border-radius: 50%;
-  display: block;
-  margin: 2rem auto;
-}
-
-/* ==========================================
-   Typography
-   ========================================== */
-
+/* Restore headings and paragraphs */
 h1,
 h2,
 h3,
 h4,
 h5,
-h6 {
-  color: var(--text);
-  margin-top: 2rem;
-}
-
-p,
-li {
-  color: var(--text);
+h6,
+p {
+  background: none;
+  padding: 0;
+  margin: 12px auto;
+  max-width: 800px;
+  color: black;
+  display: block;
 }
 
 ul,
 ol {
-  padding-left: 2rem;
+  background: none;
+  padding: 15px 35px;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 12px auto;
+  color: black;
 }
 
-/* ==========================================
-   Links
-   ========================================== */
-
-a {
-  color: var(--link);
-  text-decoration: none;
+li {
+  background: none;
+  padding: 0;
+  margin: 6px 0;
 }
 
-a:hover {
-  opacity: .7;
+main,
+article,
+section,
+div {
+  background: none !important;
 }
-
-/* ==========================================
-   Horizontal rule
-   ========================================== */
 
 hr {
+  margin: 4px auto;
+  max-width: 700px;
   border: none;
-  border-top: 1px solid var(--rule);
-  margin: 2rem 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
 }
 
-/* ==========================================
-   Navigation
-   ========================================== */
-
-.site-header {
-  width: 100%;
-  border-bottom: 1px solid var(--rule);
-  margin-bottom: 2rem;
-}
-
-.site-nav ul,
-nav ul {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 2rem;
-
-  list-style: none;
+/* Compact navigation bar */
+nav {
+  background: transparent !important;
+  height: 28px;
   padding: 0;
-  margin: 1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
 }
 
-.site-nav li,
-nav li {
-  margin: 0;
-}
-
-.site-nav a,
 nav a {
+  padding: 0 10px;
+  line-height: 28px;
+  color: white;         /* visible on black background */
+  color: black;         /* visible on black background */
   font-weight: 600;
-  color: var(--link);
-}
-
-/* ==========================================
-   Images
-   ========================================== */
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* ==========================================
-   Print
-   ========================================== */
-
-@media print {
-
-  body {
-    color: #000;
-    background: #fff;
-  }
-
-  hr {
-    border-top: 1pt solid #000;
-  }
-
+  text-decoration: none;
 }
