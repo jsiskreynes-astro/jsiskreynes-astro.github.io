@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Codes
+title: Software
 permalink: /codes/
 main_nav: true
 nav_order: 4
