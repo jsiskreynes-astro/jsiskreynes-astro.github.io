@@ -62,52 +62,63 @@ June 2026.  <br>
 
 ### ⭐⭐ Invited
 
-**Probing a quadruply-lensed quasar at z = 3.1 with a multi-wavelength approach.**  
-J. Lin Dark Matter Group Meeting, University of Hong Kong, Hong Kong, *virtual*. 
-**December 2025**
+**Probing a quadruply-lensed quasar at z = 3.1 with a multi-wavelength approach.**  <br> 
+J. Lin Dark Matter Group Meeting, Chinese University of Hong Kong. <br> 
+*Virtual*.  <br> 
+December 2025.<br> 
 
-**Colloquium: Probing fundamental physics with X-ray astronomy.**  
-Universidad Nacional Autónoma de México, México, *virtual*.
-**October 2025**
+**Colloquium: Probing fundamental physics with X-ray astronomy.**  <br> 
+Universidad Nacional Autónoma de México, México. <br> 
+*Virtual*.<br> 
+October 2025. <br> 
 
-**NewAthena advancements to Cosmology and Fundamental Physics.**  
-NewAthena Splinter Session, HEAD 2025 Meeting, *St. Louis, Missouri*.
-Representing *NewAthena* SWG-6. 
-**October 2025**
+**NewAthena advancements to Cosmology and Fundamental Physics.**  <br> 
+NewAthena Splinter Session at the HEAD 2025 Meeting. <br> 
+*St. Louis, Missouri*. <br> 
+Representing *NewAthena* Science Working Group 6. <br> 
+October 2025. <br> 
 
-**A survey of supermassive black hole spins with the AXIS Deep Survey.**  
-Advanced X-ray Imaging Satellite (AXIS), AGN SWG, bi-weekly meeting, *virtual*.  
-**May 2025**
+**A survey of supermassive black hole spins with the AXIS Deep Survey.**  <br> 
+AXIS AGN Science Working Group. <br> 
+*Virtual*.  
+May 2025. <br> 
 
-**Using high-resolution X-ray spectroscopy to probe fundamental physics.**  
-High Energy Astrophysics Seminar, NASA Goddard Space Flight Center, *Greenbelt, MD, USA*.
-**January 2025**
+**Using high-resolution X-ray spectroscopy to probe fundamental physics.**  <br> 
+High Energy Astrophysics Seminar at NASA Goddard Space Flight Center. <br> 
+*Greenbelt, MD, USA*. <br> 
+January 2025. <br> 
 
 ### ⭐ Contributed
 
-**Leveraging X-ray observations of lensed quasars to probe morphology at high-z.***  
-High-z Group Meeting, Kavli Institute for Cosmology, University of Cambridge, *Cambridge, UK*.  
-**July 2025**
+**Leveraging X-ray observations of lensed quasars to probe morphology at high-z.** <br> 
+High-z Group Meeting, Kavli Institute for Cosmology, University of Cambridge. <br> 
+*Cambridge, UK*. <br> 
+July 2025. <br> 
 
-**Leveraging X-ray observations of lensed quasars to probe morphology at high-z.***  
-Astrophysics Department Seminar, Imperial College London, *London, UK*. 
-**July 2025**
+**Leveraging X-ray observations of lensed quasars to probe morphology at high-z.** <br>   
+Astrophysics Department Seminar, Imperial College London. <br> 
+*London, UK*. <br> 
+July 2025. <br> 
 
-**Leveraging X-ray observations of quadruply-lensed quasars at high-z***  
-Lensing Symposium at the European Astronomical Society 2025 Annual Meeting, *Cork, Ireland*.
-**June 2025**
+**Leveraging X-ray observations of quadruply-lensed quasars at high-z.** <br> 
+Symposium on lensing at the European Astronomical Society 2025 Annual Meeting.<br> 
+*Cork, Ireland*.<br> 
+June 2025.
 
-**Probing axions with X-ray observations of active galactic nuclei.**  
-ITC Luncheon at the Center for Astrophysics | Harvard & Smithsonian, *Cambridge, MA, USA*.
-**May 2025**
+**Probing axions with X-ray observations of active galactic nuclei.**  <br> 
+ITC Luncheon, Center for Astrophysics | Harvard & Smithsonian. <br> 
+*Cambridge, MA, USA*. <br> 
+May 2025. <br> 
 
-**Leveraging X-ray observations of lensed quasars for milliarcsecond X-ray astrometry**  
-Strong Lensing Workshop at the Center for Astrophysics | Harvard & Smithsonian, *Cambridge, MA, USA*.
-**March 2025**
+**Leveraging X-ray observations of lensed quasars for milliarcsecond X-ray astrometry**  <br> 
+Strong Lensing Workshop at the Center for Astrophysics | Harvard & Smithsonian. <br>
+*Cambridge, MA, USA*. <br> 
+March 2025. <br> 
 
-**Unveiling fundamental physics with high-resolution X-ray spectroscopy of AGN**  
-Dissertation Talk at the 245th Meeting of the American Astronomical Society, *National Harbor, MD, USA*.  
-**January 2025**
+**Unveiling fundamental physics with high-resolution X-ray spectroscopy of AGN.**  <br> 
+Dissertation Talk at the 245th Meeting of the American Astronomical Society. <br>  
+*National Harbor, MD, USA*.<br> 
+January 2025
 
 ---
 
