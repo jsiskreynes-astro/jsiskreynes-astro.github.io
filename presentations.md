@@ -15,27 +15,31 @@ This page provides an exhaustive list of these presentations.
 
 ### ⭐⭐ Invited
 
-"Cosmology and Fundamental Physics with NewAthena: From Black Hole Growth to the Cosmological Expansion of the Universe to the Dark Matter Paradigm." <br>
-E1.18 Session at the COSPAR 2026 Scientific Assembly, *Florence, Italy*.  
-Representing *NewAthena* SWG-6. 
-**August 2026**
+**Cosmology and Fundamental Physics with NewAthena: From Black Hole Growth to the Cosmological Expansion of the Universe to the Dark Matter Paradigm.** <br>
+E1.18 Session at the COSPAR 2026 Scientific Assembly. <br>
+*Florence, Italy*.  
+Representing *NewAthena* Science Workign Group 6. <br>
+August 2026.
 
-**Probing supermassive black hole spin demographics from X-rays.**  
-Special HEAD Session on “Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays”, AAS/HEAD Summer meeting, *Pasadena, CA, USA*.
-Delivered by Prof. Christopher S. Reynolds on my behalf. 
-**June 2026**
+**Probing supermassive black hole spin demographics from X-rays.** <br>
+Special HEAD Session on “Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays” at the 248th AAS meeting. <br>
+Delivered by Prof. Christopher S. Reynolds on my behalf. <br>
+June 2026.
 
-**Resolving distant active galactic nuclei at fine spatial scales with strong gravitational lensing.**  
-MIT Monday Afternoon talks, MIT Kavli Institute, *Cambridge, MA, USA*.
-**May 2026**
+**Resolving distant active galactic nuclei at fine spatial scales with strong gravitational lensing.**  <br>
+MIT Monday Afternoon talks, MIT Kavli Institute. <br>
+*Cambridge, MA, USA*. <br>
+May 2026. <br>
 
 **The spin demographics of active supermassive black holes from X-rays.**  
-Black Hole Explorer AGN Demographics SWG, *virtual*.
-**March 2026**
+Black Hole Explorer AGN Demographics Science Working Group.
+*Virtual*. <br> 
+March 2026 <br> 
 
 **Resolving cosmologically distant AGN at parsec scales with strong gravitational lensing.** 
-UMBRELA Dialogues, *Cambridge, MA, USA*.
-**March 2026**
+UMBRELA Dialogues, Center for Astrophysics | Harvard & Smithsonian. <br>
+*Cambridge, MA, USA*. <br>
+March 2026. <br>
 
 ### ⭐ Contributed
 
