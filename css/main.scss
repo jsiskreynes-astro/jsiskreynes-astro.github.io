@@ -202,3 +202,47 @@ h1 {
   height: auto;
   margin: 1.5rem auto;
 }
+
+/* ==========================================
+   Force compact header
+   ========================================== */
+
+header.navigation {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0;
+  right: 0;
+
+  min-height: 40px !important;
+  height: auto !important;
+
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+header.navigation .navigation-wrapper {
+  padding: 0 !important;
+  margin: 0 auto !important;
+}
+
+header.navigation nav {
+  padding: 0.3rem 0 !important;
+  margin: 0 !important;
+}
+
+header.navigation ul.navigation-menu {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.page-content {
+  margin-top: 45px !important;
+  padding-top: 0 !important;
+}
+
+.page .post-header,
+.page-header,
+.post-header {
+  padding-top: 0.5rem !important;
+  margin-top: 0 !important;
+}
