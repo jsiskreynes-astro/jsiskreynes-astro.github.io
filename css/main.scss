@@ -1,4 +1,3 @@
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
 
@@ -9,145 +8,141 @@
   "neat/neat",
   "layout";
 
-/* =========================
-   Color variables
-   ========================= */
+/* ==========================================
+   Theme
+   ========================================== */
 
 :root {
-  color-scheme: light dark;
-
   --bg: #ffffff;
-  --text: #111111;
-  --link: #111111;
-  --rule: rgba(0,0,0,.3);
+  --text: #1a1a1a;
+  --link: #1a1a1a;
+  --rule: #d8d8d8;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #121212;
-    --text: #f2f2f2;
-    --link: #f2f2f2;
-    --rule: rgba(255,255,255,.25);
-  }
-}
-
-/* =========================
+/* ==========================================
    Global
-   ========================= */
+   ========================================== */
+
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   background: var(--bg);
   color: var(--text);
-  transition: background 0.25s ease, color 0.25s ease;
+  margin: 0;
+  line-height: 1.7;
 }
 
-main,
+/* ==========================================
+   Layout
+   ========================================== */
+
+.wrapper,
 .page-content,
-.wrapper {
-  margin-left: auto;
-  margin-right: auto;
+main {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 0 2rem;
 }
 
-/* Remove all text boxes */
-main,
-article,
-section,
-div,
-p {
-  background: none;
-  padding: 0;
-  border-radius: 0;
-  margin: 20px auto;
-  max-width: 800px;
-  color: var(--text);
-}
+/* ==========================================
+   Typography
+   ========================================== */
 
-/* Headings */
 h1,
 h2,
 h3,
 h4,
 h5,
-h6,
-p {
-  background: none;
-  padding: 0;
-  margin: 12px auto;
-  max-width: 800px;
+h6 {
   color: var(--text);
-  display: block;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  line-height: 1.25;
+}
+
+p {
+  margin-bottom: 1.2rem;
 }
 
 ul,
 ol {
-  background: none;
-  padding: 15px 35px;
-  border-radius: 10px;
-  max-width: 800px;
-  margin: 12px auto;
-  color: var(--text);
+  margin-bottom: 1.2rem;
+  padding-left: 2rem;
 }
 
 li {
-  background: none;
-  padding: 0;
-  margin: 6px 0;
+  margin-bottom: 0.4rem;
 }
 
-main,
-article,
-section,
-div {
-  background: none !important;
-}
-
-hr {
-  margin: 4px auto;
-  max-width: 700px;
-  border: none;
-  border-top: 1px solid var(--rule);
-}
-
-/* =========================
-   Navigation
-   ========================= */
-
-nav {
-  background: transparent !important;
-  height: 28px;
-  padding: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-}
-
-nav a {
-  padding: 0 10px;
-  line-height: 28px;
-  color: var(--link);
-  font-weight: 600;
-  text-decoration: none;
-}
+/* ==========================================
+   Links
+   ========================================== */
 
 a {
   color: var(--link);
+  text-decoration: none;
+  transition: opacity .2s ease;
 }
 
 a:hover {
-  opacity: 0.7;
+  opacity: .65;
 }
+
+/* ==========================================
+   Horizontal rules
+   ========================================== */
+
+hr {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 2.5rem 0;
+}
+
+/* ==========================================
+   Navigation
+   ========================================== */
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+nav a {
+  font-weight: 600;
+}
+
+/* ==========================================
+   Images
+   ========================================== */
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ==========================================
+   Print
+   ========================================== */
 
 @media print {
 
+  body {
+    color: #000;
+    background: #fff;
+  }
+
   hr {
-    border: none;
     border-top: 1pt solid #000;
-    margin: 12pt 0;
   }
 
   .site-header {
-    border-bottom: 1pt solid #000 !important;
+    border-bottom: 1pt solid #000;
   }
 
 }
