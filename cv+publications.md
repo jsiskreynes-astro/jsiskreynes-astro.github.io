@@ -8,7 +8,7 @@ nav_order: 3
 
 ## Curriculum Vitae
 
-You can download my full CV [here].
+You can download my full CV [here]({{ site.baseurl }}/assets/jsiskreynes_cv_lu_07082026.pdf).
 
 ## Publications
 
