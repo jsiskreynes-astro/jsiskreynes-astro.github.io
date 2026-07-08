@@ -6,7 +6,7 @@ main_nav: true
 nav_order: 2
 ---
 
-I enjoy working towards understanding the growth, structure, and physical processes governing supermassive black holes (SMBHs) and their galactic environments over cosmic time. I am also interested in using astrophysical sources as probes of physics beyond the Standard Model. I approach these areas by combining observational data, computational modeling, and statistical inference, with an emphasis on strong gravitational lensing and high-energy astrophysics. 
+My research seeks to understand the growth, structure, and physical processes governing supermassive black holes (SMBHs) and their galactic environments over cosmic time. I am also interested in using astrophysical sources as probes of physics beyond the Standard Model. I approach these areas by combining observational data, computational modeling, and statistical inference, with an emphasis on strong gravitational lensing and high-energy astrophysics. 
 
 ## Strong gravitational lensing of AGN 
 
