@@ -142,6 +142,8 @@ pre code.hljs {
   	@include outer-container;
     @include clearfix;
     position: relative;
+	display: flex; 
+	justify-content: center;
   }
   .logo {
     float: left;
