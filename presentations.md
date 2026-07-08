@@ -31,12 +31,12 @@ MIT Monday Afternoon talks, MIT Kavli Institute. <br>
 *Cambridge, MA, USA*. <br>
 May 2026. <br>
 
-**The spin demographics of active supermassive black holes from X-rays.**  
+**The spin demographics of active supermassive black holes from X-rays.**   <br>
 Black Hole Explorer AGN Demographics Science Working Group.
 *Virtual*. <br> 
 March 2026 <br> 
 
-**Resolving cosmologically distant AGN at parsec scales with strong gravitational lensing.** 
+**Resolving cosmologically distant AGN at parsec scales with strong gravitational lensing.**  <br>
 UMBRELA Dialogues, Center for Astrophysics | Harvard & Smithsonian. <br>
 *Cambridge, MA, USA*. <br>
 March 2026. <br>
