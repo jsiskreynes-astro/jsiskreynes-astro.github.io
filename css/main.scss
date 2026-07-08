@@ -2,7 +2,6 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-// hello there
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 // Includes Bourbon, Neat, and Bitters (thanks, thoughtbot!)
@@ -16,7 +15,6 @@ body {
   background: none;
   color: black;
 }
-
 
 main,
 .page-content,
@@ -86,6 +84,7 @@ hr {
 }
 
 /* Compact navigation bar */
+
 nav {
   background: transparent !important;
   height: 28px;
@@ -99,14 +98,13 @@ nav {
 nav a {
   padding: 0 10px;
   line-height: 28px;
-  color: white;         /* visible on black background */
-  color: black;         /* visible on black background */
+  color: black;
   font-weight: 600;
   text-decoration: none;
 }
 
 /* ==========================================
-   Force horizontal navigation
+   Horizontal navigation
    ========================================== */
 
 .navigation nav {
@@ -137,8 +135,70 @@ nav a {
   font-weight: 600;
 }
 
+/* ==========================================
+   Remove excess header spacing
+   ========================================== */
+
 html,
 body {
   margin: 0;
   padding: 0;
+}
+
+.navigation {
+  margin: 0;
+  padding: 0;
+}
+
+.navigation-wrapper {
+  margin: 0 auto;
+  padding: 0.4rem 0;
+  min-height: 0;
+}
+
+.navigation nav {
+  margin: 0;
+  padding: 0;
+}
+
+.navigation-menu {
+  margin: 0;
+  padding: 0;
+}
+
+.navigation-menu li {
+  margin: 0 0.8rem;
+}
+
+.navigation-menu a {
+  padding: 0.6rem 0;
+}
+
+/* ==========================================
+   Reduce spacing below the menu
+   ========================================== */
+
+.page-content {
+  margin-top: 0.5rem;
+}
+
+main {
+  margin-top: 0;
+}
+
+.page-heading,
+h1 {
+  margin-top: 0.5rem;
+}
+
+/* ==========================================
+   Profile picture
+   ========================================== */
+
+.profile {
+  display: block;
+  width: 240px;
+  max-width: 100%;
+  height: auto;
+  margin: 1.5rem auto;
 }
