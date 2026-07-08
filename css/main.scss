@@ -111,7 +111,19 @@ nav {
   gap: 1.5rem;
   margin: 2rem 0;
 }
-
+.profile {
+  width: 220px;      /* Try 200–250px */
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+  display: block;
+  margin: 2rem auto;
+}
+.home-page {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
 nav a {
   font-weight: 600;
 }
