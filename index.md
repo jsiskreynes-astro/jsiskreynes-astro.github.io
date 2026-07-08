@@ -24,7 +24,7 @@ I grew up in the island of Mallorca, Spain, and speak English, Catalan, and Span
 
 ## Contact 
 
-If you have any questions about my research, my presentations, or want to get in touch regarding opportunties and outreach initiatives, please contact me at [julia.sisk_reynes@cfa.harvard.edu](mailto:julia.sisk_reynes@cfa.harvard.edu).
+If you have any questions about my research, presentations, or want to get in touch regarding opportunties and outreach, please contact me at [julia.sisk_reynes@cfa.harvard.edu](mailto:julia.sisk_reynes@cfa.harvard.edu).
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
