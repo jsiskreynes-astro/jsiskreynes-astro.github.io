@@ -83,60 +83,8 @@ hr {
   border-top: 1px solid rgba(0, 0, 0, 0.3);
 }
 
-/* Compact navigation bar */
-
-nav {
-  background: transparent !important;
-  height: 28px;
-  padding: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-}
-
-nav a {
-  padding: 0 10px;
-  line-height: 28px;
-  color: black;
-  font-weight: 600;
-  text-decoration: none;
-}
-
 /* ==========================================
-   Horizontal navigation
-   ========================================== */
-
-.navigation nav {
-  width: 100%;
-}
-
-.navigation-menu {
-  display: flex !important;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 1.5rem;
-
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.navigation-menu li {
-  display: inline-block;
-  margin: 0;
-}
-
-.navigation-menu a {
-  display: inline-block;
-  padding: 0.5rem 0;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-/* ==========================================
-   Remove excess header spacing
+   Compact, responsive navigation
    ========================================== */
 
 html,
@@ -145,33 +93,111 @@ body {
   padding: 0;
 }
 
-.navigation {
+header.navigation {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+  min-height: 44px;
   margin: 0;
   padding: 0;
+  background: #fff !important;
 }
 
-.navigation-wrapper {
-  margin: 0 auto;
-  padding: 0.4rem 0;
-  min-height: 0;
+header.navigation .navigation-wrapper {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 64rem !important;
+  min-height: 44px;
+  margin: 0 auto !important;
+  padding: 0 0.75rem !important;
 }
 
-.navigation nav {
+header.navigation .logo {
+  display: none;
+}
+
+header.navigation .navigation-menu-button {
+  box-sizing: border-box;
+  min-height: 44px;
+  padding: 0.55rem 0.25rem;
+  color: #111;
+}
+
+header.navigation nav {
+  display: block;
+  float: none;
+  clear: both;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0 !important;
+  background: transparent !important;
+}
+
+header.navigation ul.navigation-menu {
+  width: 100%;
+  max-width: none;
   margin: 0;
   padding: 0;
+  list-style: none;
 }
 
-.navigation-menu {
+header.navigation ul.navigation-menu li.nav-link {
+  box-sizing: border-box;
+  width: 100%;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
-.navigation-menu li {
-  margin: 0 0.8rem;
+header.navigation ul.navigation-menu li.nav-link a {
+  display: block;
+  padding: 0.65rem 0.5rem;
+  color: #111;
+  font-weight: 600;
+  line-height: 1.4;
+  text-decoration: none;
+  white-space: nowrap;
 }
 
-.navigation-menu a {
-  padding: 0.6rem 0;
+header.navigation ul.navigation-menu li.nav-link a:hover,
+header.navigation ul.navigation-menu li.nav-link a:focus {
+  color: #276f9d;
+}
+
+@media screen and (min-width: 768px) {
+  header.navigation .navigation-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  header.navigation .navigation-menu-button {
+    display: none;
+  }
+
+  header.navigation nav {
+    clear: none;
+  }
+
+  header.navigation ul.navigation-menu {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    gap: clamp(0.25rem, 1vw, 1rem);
+  }
+
+  header.navigation ul.navigation-menu li.nav-link {
+    flex: 0 0 auto;
+    width: auto;
+  }
+
+  header.navigation ul.navigation-menu li.nav-link a {
+    padding: 0.7rem clamp(0.25rem, 0.75vw, 0.75rem);
+  }
 }
 
 /* ==========================================
@@ -203,46 +229,23 @@ h1 {
   margin: 1.5rem auto;
 }
 
-/* ==========================================
-   Force compact header
-   ========================================== */
-
-header.navigation {
-  position: fixed !important;
-  top: 0 !important;
-  left: 0;
-  right: 0;
-
-  min-height: 40px !important;
-  height: auto !important;
-
-  padding: 0 !important;
-  margin: 0 !important;
-}
-
-header.navigation .navigation-wrapper {
-  padding: 0 !important;
-  margin: 0 auto !important;
-}
-
-header.navigation nav {
-  padding: 0.3rem 0 !important;
-  margin: 0 !important;
-}
-
-header.navigation ul.navigation-menu {
-  padding: 0 !important;
-  margin: 0 !important;
-}
-
 .page-content {
-  margin-top: 45px !important;
+  margin-top: 0 !important;
   padding-top: 0 !important;
+}
+
+.page-content > .wrapper,
+.page-content .page {
+  margin-top: 0 !important;
 }
 
 .page .post-header,
 .page-header,
 .post-header {
-  padding-top: 0.5rem !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+.post-header .post-title {
   margin-top: 0 !important;
 }
