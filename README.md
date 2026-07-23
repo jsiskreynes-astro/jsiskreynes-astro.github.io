@@ -17,6 +17,26 @@ Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) th
 
 Cover image by Chris M. Morris ([flickr][cover]).
 
+## Local development
+
+Install a current Ruby and Bundler, then install the project dependencies:
+
+```bash
+bundle install
+```
+
+Build the site:
+
+```bash
+bundle exec jekyll build
+```
+
+Or run a local preview at <http://127.0.0.1:4000>:
+
+```bash
+bundle exec jekyll serve
+```
+
 ## Features
 
 This theme comes with a number of features, including:
