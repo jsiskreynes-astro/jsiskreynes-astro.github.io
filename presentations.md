@@ -18,7 +18,7 @@ E1.18 Session at the COSPAR 2026 Scientific Assembly. *Florence, Italy*. August.
 Representing *NewAthena* Science Working Group 6. <br>
 
 **Probing supermassive black hole spin demographics from X-rays.** <br>
-Special HEAD Session on “Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays” at the 248th AAS meeting. *Pasadena, CA, USA*. -- June <br>
+Special HEAD Session on “Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays” at the 248th AAS meeting. *Pasadena, CA, USA*. June. <br>
 Delivered by Prof. Christopher S. Reynolds on my behalf. <br>
 
 **Resolving distant active galactic nuclei at fine spatial scales with strong gravitational lensing.**  <br>
@@ -162,26 +162,16 @@ Astrophysics Colloquium, University of Maryland College Park. <br>
 ### ⭐ Contributed
 
 **Probing Physics Beyond the Standard Model with current and future X-ray observatories.**  <br>
-3rd Scientific Conference Dedicated to the Athena Observatory. <br>
-Barcelona, Spain. <br>
-November. <br>
+3rd Scientific Conference Dedicated to the Athena Observatory. *Barcelona, Spain*. November. <br>
 
 **Colloquium: Setting tight bounds on axions with X-ray observations of AGN.**  <br>
-"Recent Progress in Axion Theory and Experiment" Workshop, Institute for Particle Physics Phenomenology, University of Durham. <br>
-*Durham, UK*. <br>
-September. <br>
+"Recent Progress in Axion Theory and Experiment" Workshop, Institute for Particle Physics Phenomenology, University of Durham. *Durham, UK*. September. <br>
 
 **New tight bounds on axion-like particles with X-ray observations of H1821+643.**  <br>
-Athena Symposium at European Astronomical Society 2022 Annual Meeting. <br>
-*Valencia, Spain*. <br>
-July. <br>
+Athena Symposium at European Astronomical Society 2022 Annual Meeting. *Valencia, Spain*. July. <br>
 
 **A moderate spin for the high-mass supermassive black hole in H1821+643.** <br>
-XMM-Newton Annual Conference, ESAC. <br>
-*Madrid, Spain*. <br>
-June. <br>
+XMM-Newton Annual Conference, ESAC. *Madrid, Spain*. June. <br>
 
 **A moderate spin for the high-mass supermassive black hole in H1821+643.**  <br>
-New Results in X-ray Astronomy UK 2022 Annual Conference. <br>
-*Leicester, UK*. <br>
-May. <br>
+New Results in X-ray Astronomy UK 2022 Annual Conference. *Leicester, UK*. May. <br>
