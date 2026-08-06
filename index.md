@@ -10,6 +10,8 @@ nav_order: 1
 
 I am an astronomer and postdoctoral research fellow at the Center for Astrophysics (CfA) of the Harvard &amp; Smithsonian in Cambridge, MA, where I investigate the cosmic growth and co-evolution of supermassive black holes and their host galaxies, black hole astrophysics, and physics beyond the Standard Model. My work combines observational, computational, and statistical methods to address fundamental questions in high-energy astrophysics and cosmology. 
 
+I will be joining the University of Maryland, Baltimore County as a Postdoctoral Research Associate -- where I will work with Prof. Adi Foord -- in September 2026.
+
 Since joining the CfA in 2024, I am using strong gravitational lensing to probe the inner regions of cosmologically distant active galactic nuclei (AGN) at fine spatial scales. I am analyzing a sample of lensed quasars with archival X-ray, optical and/or radio data to determine the spatial origin of their respective emission regions with milliarcsecond precision. With this work, I aim to reveal the structure and physical processes around the immediate vicinity of supermassive black holes at high redshifts.
 
 Since June 2025, I have also served as co-chair of the Science Working Group in Cosmology and Fundamental Physics for the _NewAthena_ flagship X-ray observatory, expected to launch in the late 2030s. In this role, I oversee and contribute to community-level efforts to demonstrate progress _NewAthena_ will unlock towards the study of cosmology and fundamental physics.
