@@ -5,7 +5,7 @@ permalink: /presentations/
 main_nav: true
 nav_order: 6
 ---
-Since May 2022, I have given 41 presentations (21 invited and 20 contributed) at international conferences, workshops, mission collaborations, and institutional seminars.
+Since May 2022, I have given 42 presentations (23 invited and 20 contributed) at international conferences, workshops, mission collaborations, and institutional seminars.
 
 ---
 
