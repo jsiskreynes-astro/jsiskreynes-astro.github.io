@@ -146,8 +146,7 @@ Royal Astronomical Society Specialist Meeting on Supermassive Black Hole Binarie
 
 ### ⭐⭐ Invited
 
-**Current and future constraints on light axion-like particles: prospects for LEM.** <br>  
-LEM Galaxies Science Working Group Seminar -- *Virtual* -- December 2022 <br>
+**Current and future constraints on light axion-like particles: prospects for LEM.** LEM Galaxies Science Working Group Seminar -- *Virtual* -- December 2022 <br>
 
 **Setting tight bounds on light axions with Chandra/Grating spectra of quasars.**  <br>
 Chandra/HETG Group Meeting, MIT Kavli Institute -- *Cambridge, MA, USA* -- October 2022 <br>
