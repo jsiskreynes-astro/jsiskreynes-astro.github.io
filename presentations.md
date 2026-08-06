@@ -7,8 +7,6 @@ nav_order: 6
 ---
 Since May 2022, I have given 41 presentations (21 invited and 20 contributed) at international conferences, workshops, mission collaborations, and institutional seminars.
 
-This page provides an exhaustive list of these presentations.
-
 ---
 
 ## 2026 
