@@ -10,15 +10,11 @@ nav_order: 3
 
 You can download my full CV [here]({{ site.baseurl }}/assets/jsiskreynes_cv_lu_07082026.pdf).
 
-## Publications
+## Refereed Publications
 
 You can view a comprehensive list of my publications on [NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc).
 
-### Currently working on... 
-
-Five publications (three first-author and one co-author), including two first-author publications that will be included in a JHEAp _NewAthena_ Special Issue that will be published in 2027. These two publications explore frontiers enabled by _NewAthena_ towards supermassive black hole spin demographics from X-ray reflection, and searches for axion-like particles in galaxy cluster environments.<br>
-  
-### Refereed Publications
+These are:
 
 - *Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy.* <br>
 Ostridge, Alex; Martínez-Galarza, Rafael; **Sisk-Reynés, Júlia M.**, Schwartz, Daniel A. & Barnacka, A. <br>
