@@ -16,9 +16,15 @@ You can view a comprehensive list of my publications on [NASA/ADS](https://ui.ad
 
 ### Currently working on... 
 
-Five publications (three first-author and two co-author), including two first-author publications that will be included in a JHEAp _NewAthena_ Special Issue that will be published in 2027. These two publications explore frontiers enabled by _NewAthena_ towards supermassive black hole spin demographics from X-ray reflection, and searches for axion-like particles in galaxy cluster enviornments.<br>
+Five publications (three first-author and one co-author), including two first-author publications that will be included in a JHEAp _NewAthena_ Special Issue that will be published in 2027. These two publications explore frontiers enabled by _NewAthena_ towards supermassive black hole spin demographics from X-ray reflection, and searches for axion-like particles in galaxy cluster environments.<br>
   
 ### Refereed Publications
+
+- *Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy.* <br>
+Ostridge, Alex; Martínez-Galarza, Rafael; **Sisk-Reynés, Júlia M.**, Schwartz, Daniel A. & Barnacka, A. <br>
+Student-led publication.
+Accepted for publication in MNRAS in July, 2026. <br>
+[arXiv](https://arxiv.org/abs/2607.22812) <br>
 
 - *Spin Demographics of Active Supermassive Black Holes: Updated Estimates from X-ray reflection and Future opportunities.* <br>
 **Sisk-Reynés, Júlia M.**, et al. <br>
