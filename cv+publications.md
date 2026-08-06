@@ -8,7 +8,7 @@ nav_order: 3
 
 ## Curriculum Vitae
 
-You can download my full CV [here]({{ site.baseurl }}/assets/jsiskreynes_cv_lu_07082026.pdf).
+You can download my full CV [here]({{ site.baseurl }}/assets/jsiskreynes_cv_last-updated_6Aug2026.pdf).
 
 A comprehensive list of publications, along with selected conference abstracts, can be found at [NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc).
 
