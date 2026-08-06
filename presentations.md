@@ -14,25 +14,18 @@ Since May 2022, I have given 41 presentations (21 invited and 20 contributed) at
 ### ⭐⭐ Invited
 
 **Cosmology and Fundamental Physics with NewAthena: From Black Hole Growth to the Cosmological Expansion of the Universe to the Dark Matter Paradigm.** <br>
-E1.18 Session at the COSPAR 2026 Scientific Assembly. <br>
-*Florence, Italy*.  
-Representing *NewAthena* Science Workign Group 6. <br>
-August.
+E1.18 Session at the COSPAR 2026 Scientific Assembly. *Florence, Italy*. -- August <br> 
+Representing *NewAthena* Science Working Group 6. <br>
 
 **Probing supermassive black hole spin demographics from X-rays.** <br>
-Special HEAD Session on “Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays” at the 248th AAS meeting. <br>
+Special HEAD Session on “Chirps and Flashes: Converging on Black Hole Spin from GWs to X-rays” at the 248th AAS meeting. *Pasadena, CA, USA*. -- June <br>
 Delivered by Prof. Christopher S. Reynolds on my behalf. <br>
-June.
 
 **Resolving distant active galactic nuclei at fine spatial scales with strong gravitational lensing.**  <br>
-MIT Monday Afternoon talks, MIT Kavli Institute. <br>
-*Cambridge, MA, USA*. <br>
-May. <br>
+MIT Monday Afternoon talks, MIT Kavli Institute. *Cambridge, MA, USA*. -- May <br>
 
 **The spin demographics of active supermassive black holes from X-rays.**   <br>
-Black Hole Explorer AGN Demographics Science Working Group. <br>
-*Virtual*. <br> 
-March. <br> 
+Black Hole Explorer AGN Demographics Science Working Group. *Virtual*. -- March <br> 
 
 **Resolving cosmologically distant AGN at parsec scales with strong gravitational lensing.**  <br>
 UMBRELA Dialogues, Center for Astrophysics | Harvard & Smithsonian. <br>
