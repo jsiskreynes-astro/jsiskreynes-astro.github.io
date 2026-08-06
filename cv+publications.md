@@ -61,7 +61,8 @@ December 2024, Royal Astronomical Society's *Astronomy and Geophysics* magazine.
 - *Physics Beyond the Standard Model with Future X-Ray Observatories: Projected Constraints on Very-light Axion-like Particles with Athena and AXIS.* <br>
 **Sisk-Reynés, Júlia M.**, et al.  <br>
 June 2023, ApJ, 951, 1, id.5, 17 pp.  <br>
-[Press Release](https://www.the-athena-x-ray-observatory.eu/en/node/796)  [Publisher] <br>(https://iopscience.iop.org/article/10.3847/1538-4357/acd116)  <br>
+[Publisher](https://iopscience.iop.org/article/10.3847/1538-4357/acd116)  <br>
+[Press Release](https://www.the-athena-x-ray-observatory.eu/en/node/796) <br>
 
 - *Current and Future constraints on Very-Light Axion-Like Particles from X-ray observations of cluster-hosted Active Galaxies.*  <br>
 **Sisk-Reynés, Júlia M.**, Reynolds, Christopher S., & Matthews, James H.  <br>
