@@ -5,7 +5,7 @@ permalink: /presentations/
 main_nav: true
 nav_order: 6
 ---
-Since May 2022, I have given 42 presentations (23 invited and 20 contributed) at international conferences, workshops, mission collaborations, and institutional seminars.
+Since May 2022, I have given 42 presentations (22 invited and 20 contributed) at international conferences, workshops, mission collaborations, and institutional seminars.
 
 ---
 
@@ -75,7 +75,7 @@ Symposium on lensing at the European Astronomical Society 2025 Annual Meeting --
 **Probing axions with X-ray observations of active galactic nuclei.**  <br> 
 ITC Luncheon, Center for Astrophysics | Harvard & Smithsonian -- *Cambridge, MA, USA* -- May 2025 <br> 
 
-**Leveraging X-ray observations of lensed quasars for milliarcsecond X-ray astrometry**  <br> 
+**Leveraging X-ray observations of lensed quasars for milliarcsecond X-ray astrometry.**  <br> 
 Strong Lensing Workshop at the Center for Astrophysics | Harvard & Smithsonian -- *Cambridge, MA, USA* -- March 2025 <br> 
 
 **Unveiling fundamental physics with high-resolution X-ray spectroscopy of AGN.**  <br> 
