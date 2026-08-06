@@ -66,7 +66,7 @@ High Energy Astrophysics Seminar at NASA Goddard Space Flight Center. *Greenbelt
 **Leveraging X-ray observations of lensed quasars to probe morphology at high-z.** <br> 
 High-z Group Meeting, Kavli Institute for Cosmology, University of Cambridge. *Cambridge, UK*. July. <br> 
 
-**Leveraging X-ray observations of lensed quasars to probe morphology at high-z.** <br>   
+**Leveraging X-ray observations of lensed quasars to probe morphology at high-z.** <br>
 Astrophysics Department Seminar, Imperial College London. *London, UK*. July. <br> 
 
 **Leveraging X-ray observations of quadruply-lensed quasars at high-z.** <br> 
