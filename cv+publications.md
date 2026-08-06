@@ -22,7 +22,7 @@ Five publications (three first-author and one co-author), including two first-au
 
 - *Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy.* <br>
 Ostridge, Alex; Martínez-Galarza, Rafael; **Sisk-Reynés, Júlia M.**, Schwartz, Daniel A. & Barnacka, A. <br>
-Student-led publication.
+Student-led publication. <br>
 Accepted for publication in MNRAS in July, 2026. <br>
 [arXiv](https://arxiv.org/abs/2607.22812) <br>
 
