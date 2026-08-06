@@ -17,5 +17,5 @@ Presentation: *Cosmology and Fundamental Physics with NewAthena: From Black Hole
 ## Mentoring & Supervision
 
 **Southampton–CfA Master’s Students (2025–2026)**  <br>
-I have supervised two Southampton–CfA exchange Master’s students during the 2025–2026 academic year. Both students have now successfully completed and defended their Master’s theses (viva voce examinations) and will begin Ph.D. programs in the UK this Fall. 
+I have supervised two Southampton–CfA exchange Master’s students during the 2025–2026 academic year. Both students have now successfully completed and defended their Master’s theses (viva voce examinations) and will begin Ph.D. programs in the UK this Fall.
 
