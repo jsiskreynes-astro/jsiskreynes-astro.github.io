@@ -13,7 +13,7 @@ A comprehensive list of publications, along with selected conference abstracts, 
 - *Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy.* <br>
 Ostridge, Alex; Martínez-Galarza, Rafael; **Sisk-Reynés, Júlia M.**, Schwartz, Daniel A. & Barnacka, A. <br>
 Paper by a student whom I have mentored. <br>
-August 2026, MNRAS, 551, 2, id.stag1417, 17 pp. <br>
+September 2026, MNRAS, 551, 2, id.stag1417, 17 pp. <br>
 [Publisher](https://academic.oup.com/mnras/article/551/2/stag1417/8746418) <br>
 
 - *Spin Demographics of Active Supermassive Black Holes: Updated Estimates from X-ray reflection and Future opportunities.* <br>
