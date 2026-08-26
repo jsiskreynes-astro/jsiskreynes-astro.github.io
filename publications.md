@@ -21,6 +21,7 @@ September 2026, MNRAS, 551, 2, id.stag1417, 17 pp. <br>
 Invited review. <br>
 Galaxies, May 2026, 14(3), 50. <br>
 [Publisher](https://www.mdpi.com/2075-4434/14/3/50) <br>
+[Github repository](https://github.com/joanna-pk/xray-reflection-spin-repository) <br>
 
 - *Determining the spatial origin of X-ray and optical emission in the z= 3.1 strongly lensed radio-quiet quasar GraL J065904.1+162909 to hundreds of parsecs.*  <br>
 **Sisk-Reynés, Júlia M.**, et al. <br>
