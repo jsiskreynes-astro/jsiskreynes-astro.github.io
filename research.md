@@ -29,3 +29,6 @@ An online version of my Ph.D. thesis is available [here](https://www.repository.
 
 Across the research directions I have pursued, my long-term goals is to build a coherent research program that uses multiwavelength observations, strong gravitational lensing, and spectroscopy to address fundamental questions about how SMBHs grow over cosmic time, what their accretion physics is, and physics beyond the Standard Model. Upcoming facilities such as _Euclid_, _Rubin_, _Roman_, _NewAthena_, and other next-generation X-ray and radio observatories will significantly expand the reach of my current research.
 
+## Useful links 
+
+NewAthena X-ray Observatory -- [Athena Community Office](https://www.the-athena-x-ray-observatory.eu/en)
