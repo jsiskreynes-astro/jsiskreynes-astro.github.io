@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 permalink: /presentations/
 main_nav: true
-nav_order: 5
+nav_order: 6
 ---
 Since May 2022, I have given 42 presentations (22 invited and 20 contributed) at international conferences, workshops, mission collaborations, and institutional seminars.
 
