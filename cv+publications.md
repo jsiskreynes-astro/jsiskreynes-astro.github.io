@@ -6,19 +6,15 @@ main_nav: true
 nav_order: 3
 ---
 
-## Curriculum Vitae
-
-You can download my full CV [here]({{ site.baseurl }}/assets/jsiskreynes_cv_last-updated_6Aug2026.pdf).
+## Refereed Publications
 
 A comprehensive list of publications, along with selected conference abstracts, can be found at [NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc).
-
-## Refereed Publications
 
 - *Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy.* <br>
 Ostridge, Alex; Martínez-Galarza, Rafael; **Sisk-Reynés, Júlia M.**, Schwartz, Daniel A. & Barnacka, A. <br>
 Paper by a student whom I have mentored. <br>
-Accepted for publication in MNRAS in July 2026. <br>
-[arXiv](https://arxiv.org/abs/2607.22812) <br>
+August 2026, MNRAS, 551, 2, id.stag1417, 17 pp. <br>
+[Publisher](https://academic.oup.com/mnras/article/551/2/stag1417/8746418) <br>
 
 - *Spin Demographics of Active Supermassive Black Holes: Updated Estimates from X-ray reflection and Future opportunities.* <br>
 **Sisk-Reynés, Júlia M.**, et al. <br>
