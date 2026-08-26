@@ -257,28 +257,30 @@ h1 {
    FORCE NARROWER PAGE CONTENT
    ========================================== */
 
-.page-content {
-  width: 100% !important;
-  max-width: 400px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
+/* ==========================================
+   WIDE PAGE CONTENT
+   ========================================== */
 
 .page-content > .wrapper {
   width: 100% !important;
-  max-width: 850px !important;
+  max-width: 1200px !important;
   margin-left: auto !important;
   margin-right: auto !important;
   padding-left: 0 !important;
   padding-right: 0 !important;
+  box-sizing: border-box;
 }
 
 .page-content .page {
   width: 100% !important;
-  max-width: 850px !important;
+  max-width: 1200px !important;
   margin-left: auto !important;
   margin-right: auto !important;
+  box-sizing: border-box;
+}
+
+/* Justify paragraphs */
+.page-content p {
+  text-align: justify;
 }
 
