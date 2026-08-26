@@ -3,7 +3,7 @@ layout: page
 title: Software
 permalink: /software/
 main_nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 This page is in progress.
