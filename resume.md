@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV & resume 
+title: CV 
 permalink: /resume/
 main_nav: true
 nav_order: 3
