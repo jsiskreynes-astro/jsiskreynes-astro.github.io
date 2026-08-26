@@ -6,7 +6,7 @@ main_nav: true
 nav_order: 4
 ---
 
-A comprehensive list of publications, along with selected conference abstracts, can be found at [NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc).
+A full list of publications, along with selected conference abstracts, can be found at [NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc).
 
 ## Refereed Publications
 
