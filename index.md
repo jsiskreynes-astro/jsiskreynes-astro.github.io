@@ -8,13 +8,11 @@ nav_order: 1
 
 ![alt text]({{ site.baseurl }}/assets/me.JPG "Profile Picture"){:.profile}
 
-I am an astronomer and postdoctoral research fellow at the Center for Astrophysics (CfA) of the Harvard &amp; Smithsonian in Cambridge, MA, where I investigate the cosmic growth and co-evolution of supermassive black holes and their host galaxies, black hole astrophysics, and physics beyond the Standard Model. My work combines observational, computational, and statistical methods to address fundamental questions in high-energy astrophysics and cosmology. 
+I am an astronomer and postdoctoral research associate at the University of Maryland, Baltimore County (UMBC). Since joining the Foord AGN research group in September 2026, I am excited to be work towards finding and characterizing compact pairs of supermassive black holes (SMBHs) in merging galaxy environments across the mass scale. I am broadly interested in probing the cosmic growth and co-evolution of SMBHs and their host galaxies, black hole astrophysics, and physics beyond the Standard Mode to address fundamental questions in high-energy astrophysics and cosmology. 
 
-Since joining the Center for Astrophysics -- Harvard & Smithsonian (CfA) in 2024, I have been using strong gravitational lensing to probe the inner regions of cosmologically distant active galactic nuclei (AGN) at milliarcsecond spatial scales. I analyze a sample of lensed quasars using archival X-ray, optical, and radio observations to determine the spatial origin of their emission with milliarcsecond precision. Through this work, I aim to reveal the structure and physical processes operating in the immediate vicinity of supermassive black holes at high redshift.
+Prior to joining UMBC, I was a postdoctoral research fellow at the Center for Astrophysics (CfA) of the Harvard &amp; Smithsonian in Cambridge, MA (Fall 2024 -- August 2026). Since joining the CfA, I have been exploiting strong gravitational lensing as a tool to uniquely probe the inner regions of cosmologically distant active SMBHs at milliarcsecond spatial scales. After exploring archival CX-ray, optical, and radio observations of a sample of quadruply lensed quasars, I now look forward to exploring new Chandra X-ray observations of two lensed systems which I have been awarded time on (Chandra Cycle 28). I also look forward to scaling the techniques I have been developing to hundreds of lenses soon to be revealed by current and next-generation lens discovery engines.
 
-I will be joining the University of Maryland, Baltimore County (UMBC) as a Postdoctoral Research Associate in September 2026. At UMBC, I will continue studying energetic environments around supermassive black holes, including characterizing the incidence of dual AGN in merging galaxies, in collaboration with Prof. Adi Foord.
-
-Since June 2025, I have also served as co-chair of the Science Working Group in Cosmology and Fundamental Physics for the _NewAthena_ flagship X-ray observatory, expected to launch in the late 2030s. In this role, I oversee and contribute to community-level efforts to demonstrate progress _NewAthena_ will unlock towards the study of cosmology and fundamental physics.
+Since June 2025, I have also served as co-chair of the Science Working Group in Cosmology and Fundamental Physics for the _NewAthena_ flagship X-ray observatory, expected to launch in the late 2030s. In this role, I oversee and contribute to community-level efforts to demonstrate progress _NewAthena_ will unlock towards the study of cosmology and fundamental physics. In addition, I am leading two scientific proposals that demonstrate that an X-ray observatory with improved collecting area and spectral resolution over current X-ray missions is needed to take current X-ray spectral analyses of bright AGN to an uncharted, exciting territory toward the study of SMBH spin demographics, as well as searches for physics beyond the Standard Model. I am   the scientific importance of  measurements and searches for physics beyond the Standard Model via X-ray spectra of active SMBHs at the centers of clusters of galaxies. I am keen to continue expanding the 
 
 I completed a Ph.D. in Astronomy at the Institute of Astronomy, University of Cambridge, in July 2024. My doctoral research used high-resolution X-ray spectroscopy of AGN to explore fundamental physics -- specifically, axion-like particles -- and the spin of supermassive black holes in AGN. 
 
@@ -22,7 +20,7 @@ Prior to my Ph.D., I earned a Master’s in Physics at The University of Manches
 
 Outside of research, I enjoy organizing and getting involved in science outreach events. While in Boston, I have had the pleasure of participating at several Spanish-speaking events for the local Hispanic community. 
 
-I grew up in the island of Mallorca, Spain, and speak English, Catalan, and Spanish. Whenever I am not doing research, I enjoy spending time outdoors and dancing.
+I grew up in the island of Mallorca, Spain, and speak English, Catalan, and Spanish. Whenever I am not doing research, I enjoy spending time outdoors, visiting art galleries, and dancing.
 
 ## Contact 
 
