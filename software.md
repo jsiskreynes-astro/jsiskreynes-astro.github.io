@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-permalink: /codes/
+permalink: /software/
 main_nav: true
 nav_order: 4
 ---
