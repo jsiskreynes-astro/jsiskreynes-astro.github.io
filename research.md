@@ -32,3 +32,5 @@ Across the research directions I have pursued, my long-term goals is to build a 
 ## Useful links 
 
 NewAthena X-ray Observatory -- [Athena Community Office](https://www.the-athena-x-ray-observatory.eu/en)
+
+Chandra Cycle 28 approved peer-review [list of targets](https://cxc.harvard.edu/target_lists/cycle28/cycle28_approved_peer_targets_by_radec.html)
