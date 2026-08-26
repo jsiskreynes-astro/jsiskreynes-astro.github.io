@@ -249,3 +249,13 @@ h1 {
 .post-header .post-title {
   margin-top: 0 !important;
 }
+
+/* GLOBAL CONTENT WIDTH */
+.wrapper,
+.page-content,
+main {
+  max-width: 1100px;   /* adjust: 900px = tighter, 1200px = wider */
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
