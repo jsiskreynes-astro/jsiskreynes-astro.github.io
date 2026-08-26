@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Activities
-permalink: /activities/
+title: News!
+permalink: /news/
 main_nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 This page highlights recent academic updates and professional activities.
