@@ -14,7 +14,7 @@ Since joining the CfA, I have been undertaking a multiwavelength study of gravit
 
 Sub-kpc structures may arise from offsets between different emission regions (e.g. due to X-ray outflows or radio jets) or may be attributable to the existence of compact AGN pairs at large redshifts. Both scenarios have important implications for SMBH growth, AGN physics, and SMBH-galaxy co-evolution. My current work measures these offsets with milliarcsecond precision. 
 
-## Fundamental physics with high-resolution X-ray spectroscopy 
+## Fundamental physics
 
 My Ph.D. at the University of Cambridge used high-resolution X-ray spectroscopy of AGN to probe nonstandard physics and the extreme, energetic environments around active SMBHs. In particular, I focused on: 
 
