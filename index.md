@@ -22,11 +22,11 @@ Using archival **X-ray, optical, and radio observations of quadruply lensed quas
 
 ## Scientific interests
 
-***Supermassive black hole***<br>
+***Supermassive black holes***<br>
 Growth · mergers · accretion · demographics <br>
 
 ***Strong gravitational lensing***<br>
-Milliarcsecond-scale astrometry of cosmologically distant AGN <br>
+Quasar structure at high-z · jets · dual AGN · AGN outflows <br>
 
 ***Black hole astrophysics***<br>
 Accretion physics · Strong gravity · Spin <br>
