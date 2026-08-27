@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
+main_nav: true
+nav_order: 1
 ---
 
 ![alt text]({{ site.baseurl }}/assets/me.JPG "Profile Picture"){:.profile}
 
-I study the growth and evolution of supermassive black holes.</h3>
-
 I am an astronomer and Postdoctoral Research Associate at the <a href="https://www.umbc.edu/" target="_blank">University of Maryland, Baltimore County (UMBC)</a>, where I am a member of the Foord AGN research group.
 
 My research explores how supermassive black holes (SMBHs) grow, interact, and co-evolve with their host galaxies. I use X-ray observations, strong gravitational lensing, and multi-wavelength observations to probe black-hole physics on spatial scales that are otherwise inaccessible.
-
----
 
 ## Research
 
@@ -22,35 +20,19 @@ Previously, as a postdoctoral research fellow at the **Center for Astrophysics |
 
 Using archival **X-ray, optical, and radio observations of quadruply lensed quasars**, I have been developing methods to localize the origin of AGN emission across different wavelengths. I am now extending these techniques to new *Chandra* observations of lensed systems awarded through Chandra Cycle 28, and ultimately to much larger samples of lenses discovered by current and next-generation surveys.
 
----
-
 ## Scientific interests
 
-<div class="research-interests">
+***Supermassive black hole***<br>
+Growth · mergers · accretion · demographics <br>
 
-  <div>
-    <strong>Supermassive black holes</strong><br>
-    Growth · mergers · accretion · demographics
-  </div>
+***Strong gravitational lensing***<br>
+Milliarcsecond-scale astrometry of cosmologically distant AGN <br>
 
-  <div>
-    <strong>Strong gravitational lensing</strong><br>
-    Milliarcsecond-scale probes of distant AGN
-  </div>
+***Black hole astrophysics***<br>
+Accretion physics · Strong gravity · Spin <br>
 
-  <div>
-    <strong>X-ray astrophysics</strong><br>
-    Accretion physics · relativistic reflection · spin
-  </div>
-
-  <div>
-    <strong>Fundamental physics</strong><br>
-    Physics beyond the Standard Model
-  </div>
-
-</div>
-
----
+***Fundamental physics***<br>
+Physics beyond the Standard Model · Dark matter  <br>
 
 ## NewAthena
 
@@ -75,3 +57,9 @@ I enjoy organizing and participating in science outreach, and have particularly 
 I grew up on the island of **Mallorca, Spain**, and speak English, Catalan, and Spanish.
 
 When I am not doing research, I enjoy spending time outdoors, visiting art galleries, and dancing.
+
+[centrarium]: https://github.com/bencentra/centrarium
+[bencentra]: http://bencentra.com
+[jekyll]: https://github.com/jekyll/jekyll
+[NASA/ADS]: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+[ORCID]: https://orcid.org/0000-0003-3814-6796
