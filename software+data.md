@@ -18,7 +18,7 @@ This compilation was developed in association with the [Sisk-Reynes et al., 2026
 
 **Tools for analyzing _Chandra_ X-ray observations of Lensed Quasars**  
 
-Python, bash, and CIAO_embedded scripts for analyzing _Chandra_ X-ray observations of strongly lensed quasars to conduct milliarcsecond X-ray--to--optical astrometry.
+Python, bash, and CIAO_embedded scripts for analyzing _Chandra_ X-ray observations of strongly lensed quasars to conduct milliarcsecond X-ray-to-optical astrometry.
 
 This repository is currently in progress and includes:
 
