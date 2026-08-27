@@ -16,7 +16,7 @@ My research explores how supermassive black holes (SMBHs) grow, interact, and co
 
 My current work at UMBC focuses on finding and characterizing **compact pairs of supermassive black holes in merging galaxies**, across a broad range of black-hole and galaxy masses.
 
-Previously, as a postdoctoral research fellow at the **Center for Astrophysics | Harvard & Smithsonian (2024–2026)**, I developed strong gravitational lensing as a tool for probing the innermost regions of cosmologically distant active SMBHs at milliarcsecond spatial scales.
+Previously, as a postdoctoral research fellow at the **Center for Astrophysics, Harvard & Smithsonian (2024–2026)**, I developed strong gravitational lensing as a tool for probing the innermost regions of cosmologically distant active SMBHs at milliarcsecond spatial scales.
 
 Using archival **X-ray, optical, and radio observations of quadruply lensed quasars**, I have been developing methods to localize the origin of AGN emission across different wavelengths. I am now extending these techniques to new *Chandra* observations of lensed systems awarded through Chandra Cycle 28, and ultimately to much larger samples of lenses discovered by current and next-generation surveys.
 
