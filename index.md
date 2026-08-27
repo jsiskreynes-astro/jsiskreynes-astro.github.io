@@ -38,13 +38,13 @@ Physics beyond the Standard Model · Dark matter  <br>
 
 Since June 2025, I have served as **co-chair of the Science Working Group in Cosmology and Fundamental Physics** for the *NewAthena* flagship X-ray observatory, expected to launch in the late 2030s.
 
-In this role, I work with the community to identify and demonstrate the advances that *NewAthena* will enable in cosmology and fundamental physics. I am also involved in scientific proposals exploring how the mission's substantially improved collecting area and spectral resolution could transform X-ray studies of active SMBHs, including measurements of SMBH spin demographics and searches for signatures of physics beyond the Standard Model.
+In this role, I work with the community to identify and demonstrate the advances that *NewAthena* will enable in cosmology and fundamental physics. I am also involved in scientific proposals exploring how the mission's substantially <a href="https://www.the-athena-x-ray-observatory.eu/en/newathena-mission" target="_blank">improved collecting area and spectral resolution</a> could transform X-ray studies of active SMBHs, including measurements of SMBH spin demographics and searches for signatures of physics beyond the Standard Model.
 
 ---
 
 ## From Cambridge to Maryland
 
-Before moving to the United States, I spent almost eight years in the United Kingdom. I completed my **Ph.D. in Astronomy at the Institute of Astronomy, University of Cambridge, in 2024**, where my doctoral research used high-resolution X-ray spectroscopy of AGN to investigate fundamental physics — including axion-like particles — and the spin of active SMBHs through relativistic X-ray reflection.
+Before moving to the United States, I spent almost eight years in the United Kingdom. I completed my **Ph.D. in Astronomy at the Institute of Astronomy, University of Cambridge, in 2024**, where my doctoral research used high-resolution X-ray spectroscopy of AGN to investigate fundamental physics — including axion-like particles — and the spin of active SMBHs through relativistic X-ray reflection. A copy of my Ph.D. thesis can be accessed <a href="https://www.repository.cam.ac.uk/items/73316b31-4841-4c8f-a1f4-5a6c6fcb0735" target="_blank"> here</a>. 
 
 Before my Ph.D., I earned a **Master's degree in Physics from the University of Manchester**, where my research focused on developing an analytic model for predicting the thermal Sunyaev–Zel'dovich signal of galaxy clusters with different pressure profiles.
 
