@@ -1,14 +1,10 @@
 ---
 layout: page
-title: CV 
+title: Curriculum Vitae 
 permalink: /resume/
 main_nav: true
 nav_order: 3
 ---
-## CV 
+**CV:** [Download my full CV]({{ '/assets/jsiskreynes_csv.pdf' | relative_url }}) -- Last updated on 26 August 2026.
 
-You can access my full CV here (last updated on 26 August 2026). 
-
-## Resume 
-
-You can access my resume here (last updated on 26 August 2026). This is a condensed, 2-page version of my CV.
+**Resume:** [Download my resume]({{ '/assets/jsiskreynes_csv.pdf' | relative_url }}) -- Last updated on 26 August 2026.
