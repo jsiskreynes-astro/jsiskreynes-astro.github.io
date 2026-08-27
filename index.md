@@ -4,36 +4,14 @@ title: About
 permalink: /about/
 ---
 
-<div class="about-hero">
+![alt text]({{ site.baseurl }}/assets/me.JPG "Profile Picture"){:.profile}
 
-  <div class="about-hero-text">
+I study the growth and evolution of supermassive black holes.</h3>
 
-    <h3>I study the growth and evolution of supermassive black holes.</h3>
+I am an astronomer and Postdoctoral Research Associate at the <a href="https://www.umbc.edu/" target="_blank">University of Maryland, Baltimore County (UMBC)</a>, where I am a member of the Foord AGN research group.
 
-    <p>
-      I am an astronomer and Postdoctoral Research Associate at the
-      <a href="https://www.umbc.edu/" target="_blank">University of Maryland, Baltimore County (UMBC)</a>,
-      where I am a member of the Foord AGN research group.
-    </p>
+My research explores how supermassive black holes (SMBHs) grow, interact, and co-evolve with their host galaxies. I use X-ray observations, strong gravitational lensing, and multi-wavelength observations to probe black-hole physics on spatial scales that are otherwise inaccessible.
 
-    <p>
-      My research explores how supermassive black holes (SMBHs) grow,
-      interact, and co-evolve with their host galaxies. I use X-ray
-      observations, strong gravitational lensing, and multi-wavelength
-      observations to probe black-hole physics on spatial scales that
-      are otherwise inaccessible.
-    </p>
-
-  </div>
-
-  <div class="about-hero-image">
-
-    <img src="{{ '/assets/img/profile.jpg' | relative_url }}"
-         alt="Julia Sisk-Reynés">
-
-  </div>
-
-</div>
 ---
 
 ## Research
