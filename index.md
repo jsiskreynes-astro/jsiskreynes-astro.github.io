@@ -25,16 +25,15 @@ permalink: /about/
   observations to probe black-hole physics on spatial scales that are
   otherwise inaccessible.
 </p>
-```
+
 
   </div>
 
   <div class="about-hero-image">
 
-```
+
 <img src="{{ '/assets/img/profile.jpg' | relative_url }}"
      alt="Julia Sisk-Reynés">
-```
 
   </div>
 
