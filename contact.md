@@ -7,7 +7,7 @@ nav_order: 7
 ---
 ## UMBC campus 
 
-Office 319, Phsyics Building <br> 
+Office 319, Physics Building <br> 
 Department of Physics  <br> 
 University of Maryland, Baltimore County (UMBC) <br> 
 1000 Hilltop Circle <br> 
