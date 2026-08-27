@@ -12,6 +12,8 @@ I am an astronomer and Postdoctoral Research Associate at the <a href="https://w
 
 My research explores how supermassive black holes (SMBHs) grow, interact, and co-evolve with their host galaxies. I use X-ray observations, strong gravitational lensing, and multi-wavelength observations to probe black-hole physics on spatial scales that are otherwise inaccessible.
 
+---
+
 ## Research
 
 My current work at UMBC focuses on finding and characterizing **compact pairs of supermassive black holes in merging galaxies**, across a broad range of black-hole and galaxy masses.
@@ -19,6 +21,8 @@ My current work at UMBC focuses on finding and characterizing **compact pairs of
 Previously, as a postdoctoral research fellow at the Center for Astrophysics \| Harvard &amp; Smithsonian  (Fall 2024 - August 2026), I developed strong gravitational lensing as a tool for probing the innermost regions of cosmologically distant active SMBHs at milliarcsecond spatial scales.
 
 Using archival **X-ray, optical, and radio observations of quadruply lensed quasars**, I have been developing methods to localize the origin of AGN emission across different wavelengths. I am now extending these techniques to new *Chandra* observations of lensed systems <a href="https://cxc.harvard.edu/target_lists/cycle28/cycle28_approved_peer_targets_by_radec.html" target="_blank">awarded through Chandra Cycle 28</a>, and ultimately to much larger samples of lenses discovered by current and next-generation surveys.
+
+---
 
 ## Scientific interests
 
@@ -33,6 +37,8 @@ Accretion physics · Strong gravity · Spin <br>
 
 ***Fundamental physics***<br>
 Physics beyond the Standard Model · Dark matter  <br>
+
+---
 
 ## Future of X-ray astronomy
 
