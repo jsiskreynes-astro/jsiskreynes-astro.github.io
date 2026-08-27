@@ -1,14 +1,21 @@
 ---
 layout: page
-title: Software
-permalink: /software/
+title: Software & data
+permalink: /software+data/
 main_nav: true
 nav_order: 4
 ---
 
-This page is in progress.
+## Software & data
 
-I am preparing a public repository that will provide the community with an end‑to‑end framework for performing milliarcsecond‑precision X‑ray–to-optical astrometry in strongly lensed quasars. The release will include:
+**[SMBH Spin–Mass Compilation](https://github.com/joanna-pk/xray-reflection-spin-repository/tree/main)**  
+A continuously updated compilation of supermassive black-hole mass and
+spin measurements derived from X-ray reflection spectroscopy.
+
+**Tools for analyzing _Chandra_ X-ray observations of Lensed Quasars**  
+Python and CIAO scripts for the analysis of _Chandra_ X-ray observations of strongly lensed quasars.
+
+This page is in progress. This repository provides the community with an end‑to‑end framework for performing milliarcsecond‑precision X‑ray–to-optical astrometry in strongly lensed quasars. The release will include:
 
 - _Chandra_ data extraction scripts,
 -  _Chandra_ ray-tracing modules for generating realistic simulated _Chandra_ observations at the same positions as the optical lensed images,
