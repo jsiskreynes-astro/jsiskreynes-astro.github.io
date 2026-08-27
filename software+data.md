@@ -8,7 +8,7 @@ nav_order: 4
 
 ## Software & data
 
-**SMBH Spin–Mass Compilation
+**SMBH Spin–Mass Compilation**
 
 [Github repository](https://github.com/joanna-pk/xray-reflection-spin-repository/tree/main](https://github.com/jsiskreynes-astro/smbh-mass-spin-compilation/tree/main))  
 
