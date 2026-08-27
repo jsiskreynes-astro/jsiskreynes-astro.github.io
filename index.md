@@ -9,7 +9,7 @@ permalink: /about/
 
   <div class="about-hero-text">
 
-```
+
 <h3>I study the growth and evolution of supermassive black holes.</h3>
 
 <p>
