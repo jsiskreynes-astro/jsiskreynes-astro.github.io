@@ -8,7 +8,7 @@ nav_order: 1
 
 ![alt text]({{ site.baseurl }}/assets/me.JPG "Profile Picture"){:.profile}
 
-I am an astronomer and Postdoctoral Research Associate at the <a href="https://www.umbc.edu/" target="_blank">University of Maryland, Baltimore County (UMBC)</a>, where I am a member of the Foord AGN research group.
+I am an astronomer and Postdoctoral Research Associate at the <a href="https://www.umbc.edu/" target="_blank">University of Maryland, Baltimore County (UMBC)</a>, where I am a member of the <a href="https://www.adifoord.com/team" target="_blank">Foord AGN research group</a>.
 
 My research explores how supermassive black holes (SMBHs) grow, interact, and co-evolve with their host galaxies. I use X-ray observations, strong gravitational lensing, and multi-wavelength observations to probe black-hole physics on spatial scales that are otherwise inaccessible.
 
@@ -54,7 +54,7 @@ Before my Ph.D., I earned a **Master's degree in Physics from the University of 
 
 I enjoy organizing and participating in science outreach, and have particularly enjoyed taking part in Spanish-speaking outreach events for the local community.
 
-I grew up on the island of **Mallorca, Spain**, and speak English, Catalan, and Spanish.
+I grew up on the island of Mallorca, Spain, and speak English, Catalan, and Spanish.
 
 When I am not doing research, I enjoy spending time outdoors, visiting art galleries, and dancing.
 
