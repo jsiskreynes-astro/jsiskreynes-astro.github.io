@@ -10,7 +10,7 @@ nav_order: 1
 
 I am an astronomer and Postdoctoral Research Associate at the <a href="https://www.umbc.edu/" target="_blank">University of Maryland, Baltimore County (UMBC)</a>, where I am a member of the Foord AGN research group.
 
-My research explores how supermassive black holes (SMBHs) grow, interact, and co-evolve with their host galaxies. I use X-ray observations, strong gravitational lensing, and multi-wavelength observations to probe black-hole physics on spatial scales that are otherwise inaccessible.
+My research explores how supermassive black holes (SMBHs) grow, interact, and co-evolve with their host galaxies. I use X-ray observations, strong gravitational lensing, and multi-wavelength observations to probe supermassive black hole physics on spatial scales that are otherwise inaccessible.
 
 ---
 
