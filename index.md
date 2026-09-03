@@ -16,7 +16,7 @@ My research explores how supermassive black holes (SMBHs) grow, interact, and co
 
 ## Research
 
-My current work at UMBC focuses on finding and characterizing **compact pairs of supermassive black holes in merging galaxies**, across a broad range of black-hole and galaxy masses.
+My current work at UMBC focuses on finding and characterizing **compact pairs of supermassive black holes in merging galaxies**, across a broad range of black hole and galaxy masses.
 
 Previously, as a postdoctoral research fellow at the Center for Astrophysics \| Harvard &amp; Smithsonian  (Fall 2024 - August 2026), I developed strong gravitational lensing as a tool for probing the innermost regions of cosmologically distant active SMBHs at milliarcsecond spatial scales.
 
