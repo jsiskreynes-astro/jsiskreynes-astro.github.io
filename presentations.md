@@ -8,6 +8,12 @@ nav_order: 5
 Since May 2022, I have given 42 presentations (22 invited and 20 contributed) at international conferences, workshops, mission collaborations, and institutional seminars.
 
 ---
+## 2027 
+
+### ⭐⭐ Invited
+
+**Spin Demographics of Active Supermassive Black Holes from X-ray Reflection** <br>
+Division of Astrophysics Special Session at the APS Global Physics Summit -- *Atlanta, Georgia* -- April 2027 <br> 
 
 ## 2026 
 
