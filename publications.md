@@ -87,7 +87,7 @@ April 2023, Memorie della Società Astronomica Italiana, 94, 3, p.26.  <br>
 ## Submitted
 
 - *MUSE spectroscopy of the compact dual AGN in the z=3.273 radio-loud gravitational lens MG B2016+112* <br>
-Huyan, J., **Sisk-Reynés, Júlia M.** (co-leads), Schwartz, Daniel A., Kulkarni, Varsha P., Barnacka, A., Foord, A & Eades, Charlotte A. <br>
+Huyan, Jianhao & **Sisk-Reynés, Júlia M.** (co-leads); Schwartz, Daniel A.; Kulkarni, Varsha P.; Barnacka, Anna; Foord, Adi & Eades, Charlotte A. <br>
 Submitted to ApJL. <br>
 September 2026. <br>
 [Submitted preprint](https://arxiv.org/abs/2609.31826) <br>
