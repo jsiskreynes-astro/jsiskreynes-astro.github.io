@@ -12,7 +12,7 @@ A full list of publications, along with selected conference abstracts, can be fo
 
 - *Chandra X-ray Spectral Evidence of the Dual AGN Nature of the Gravitational lens MG B2016+112 at z=3.273 with 175 pc separation.* <br>
 Schwartz, Daniel A.; **Sisk-Reynés, Júlia M.** & Barnacka, A. <br>
-Accepted for publication in ApJL, October 2026. <br>
+October 2026. Accepted for publication in ApJL. <br>
 [Preprint](https://arxiv.org/pdf/2609.38590) <br>
 
 - *Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy.* <br>
@@ -87,5 +87,5 @@ April 2023, Memorie della Società Astronomica Italiana, 94, 3, p.26.  <br>
 
 - *MUSE spectroscopy of the compact dual AGN in the z=3.273 radio-loud gravitational lens MG B2016+112.* <br>
 Huyan, Jianghao & **Sisk-Reynés, Júlia M.**, et al. <br>
-Submitted to ApJL, September 2026. <br>
-[Submitted preprint](https://arxiv.org/abs/2609.31826) <br>
+September 2026. Submitted to ApJL. <br>
+[Preprint](https://arxiv.org/abs/2609.31826) <br>
