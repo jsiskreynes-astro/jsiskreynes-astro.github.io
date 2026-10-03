@@ -10,6 +10,12 @@ A full list of publications, along with selected conference abstracts, can be fo
 
 ## Refereed Publications
 
+- *Chandra X-ray Spectral Evidence of the Dual AGN Nature of the Gravitational lens MG B2016+112 at z=3.273 with 175 pc separation.* <br>
+Schwartz, Daniel A.; **Sisk-Reynés, Júlia M.** & Barnacka, A. <br>
+Accepted for publication in ApJL. <br>
+October 2026. <br>
+[Preprint](https://arxiv.org/pdf/2609.38590) <br>
+
 - *Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy.* <br>
 Ostridge, Alex; Martínez-Galarza, Rafael; **Sisk-Reynés, Júlia M.**, Schwartz, Daniel A. & Barnacka, A. <br>
 Paper by a student whom I have mentored. <br>
@@ -38,11 +44,6 @@ Krause, Martin G. H., et al., including **Sisk-Reynés, Júlia M.** <br>
 November 2025, PASA, 42, id.e162, 18 pp.  <br>
 [Publisher](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/evidence-for-supermassive-black-hole-binaries/6A4690BF6A39C8DE7D735A700B0C63C8) <br>
 
-- *The Advanced X-ray Imaging Satellite (AXIS) Community Science Book.*  <br>
-Koss, Michael, et al., including **Sisk-Reynés, Júlia M.** <br>
-October 2025, arXiv:2511.00253.  <br>
-[arXiv](https://arxiv.org/abs/2511.00253)
-
 - *The detergent particle.* <br>
 **Sisk-Reynés, Júlia M.**  <br>
 Invited scientfic review article.  <br> 
@@ -54,11 +55,6 @@ December 2024, Royal Astronomical Society's *Astronomy and Geophysics* magazine.
 June 2023, ApJ, 951, 1, id.5, 17 pp.  <br>
 [Publisher](https://iopscience.iop.org/article/10.3847/1538-4357/acd116)  <br>
 [Press Release](https://www.the-athena-x-ray-observatory.eu/en/node/796) <br>
-
-- *Current and Future constraints on Very-Light Axion-Like Particles from X-ray observations of cluster-hosted Active Galaxies.*  <br>
-**Sisk-Reynés, Júlia M.**, Reynolds, Christopher S., & Matthews, James H.  <br>
-April 2023, Memorie della Società Astronomica Italiana, 94, 3, p.26.  <br>
-[arXiv](https://arxiv.org/abs/2304.08513) <br>
 
 - *Evidence for a moderate spin from X-ray reflection of the high-mass supermassive black hole in the cluster-hosted quasar H1821+643.*  <br>
 **Sisk-Reynés, Júlia M.**, et al. <br>
@@ -75,3 +71,23 @@ May 2022, ApJ, 930, 1, id.90, 17 pp.  <br>
  **Sisk-Reynés, Júlia M.**, et al. <br>
 February 2022, MNRAS, 510, 1, pp.1264-1277. <br>
 [Publisher](https://academic.oup.com/mnras/article/510/1/1264/6448485?login=false) <br>
+
+## Internally Reviewed Publications
+
+- *The Advanced X-ray Imaging Satellite (AXIS) Community Science Book.*  <br>
+Koss, Michael, et al., including **Sisk-Reynés, Júlia M.** <br>
+October 2025, arXiv:2511.00253.  <br>
+[arXiv](https://arxiv.org/abs/2511.00253)
+
+- *Current and Future constraints on Very-Light Axion-Like Particles from X-ray observations of cluster-hosted Active Galaxies.*  <br>
+**Sisk-Reynés, Júlia M.**, Reynolds, Christopher S., & Matthews, James H.  <br>
+April 2023, Memorie della Società Astronomica Italiana, 94, 3, p.26.  <br>
+[arXiv](https://arxiv.org/abs/2304.08513) <br>
+
+## Submitted
+
+- *MUSE spectroscopy of the compact dual AGN in the z=3.273 radio-loud gravitational lens MG B2016+112* <br>
+Huyan, J., **Sisk-Reynés, Júlia M.** (co-leads), Schwartz, Daniel A., Kulkarni, Varsha P., Barnacka, A., Foord, A & Eades, Charlotte A. <br>
+Submitted to ApJL. <br>
+September 2026. <br>
+[Submitted preprint](https://arxiv.org/abs/2609.31826) <br>
