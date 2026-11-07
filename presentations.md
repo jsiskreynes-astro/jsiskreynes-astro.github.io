@@ -16,6 +16,11 @@ Since May 2022, I have given 42 presentations (22 invited and 20 contributed) at
 Division of Astrophysics Special Session at the APS Global Physics Summit -- *Atlanta, Georgia* -- April 2027 <br> 
 Delivered by Prof. Christopher S. Reynolds on my behalf. <br>
 
+### ⭐⭐ Contributed
+
+**Multi-wavelength confirmation of a 175 pc dual active galactic nucleus at z = 3.27.** <br>
+249th Meeting of the American Astronomical Society -- *Salt Lake City, Utah* -- January 2027 <br> 
+
 ## 2026 
 
 ### ⭐⭐ Invited
@@ -38,6 +43,12 @@ Black Hole Explorer AGN Demographics Science Working Group -- *Virtual* -- March
 UMBRELA Dialogues, Center for Astrophysics | Harvard & Smithsonian -- *Cambridge, MA, USA* -- March 2026 <br>
 
 ### ⭐ Contributed
+
+**New results on dual AGN identification and SMBH activity in dwarf galaxy mergers as revealed by Chandra** <br>
+M. Mezcua Group Meeting, Institute of Space Sciences -- *Barcelona, Spain* -- December 2026 <br> 
+
+**Multi-wavelength confirmation of a 175 pc dual active galactic nucleus at z = 3.27.** <br>
+Fall 2026 American Physical Society Mid-Atlantic Section Meeting -- *UMBC, Baltimore, MD* -- November 2026 <br> 
 
 **An X-ray pathway to connecting PTA‑Inferred SMBH Mergers with LISA sources: Lensed AGN Structure and Spin Evolution.**  
 Symposium 4 on “Preparing for multi-messenger observations with LISA and PTAs” at the European Astronomical Society 2026 Annual Meeting -- *Lausanne, Switzerland* -- July 2026 <br>
