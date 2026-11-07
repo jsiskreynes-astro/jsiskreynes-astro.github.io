@@ -44,7 +44,7 @@ UMBRELA Dialogues, Center for Astrophysics | Harvard & Smithsonian -- *Cambridge
 
 ### ⭐ Contributed
 
-**New results on dual AGN identification and SMBH activity in dwarf galaxy mergers as revealed by Chandra** <br>
+**New insights on SMBH activity in distant galaxy mergers and local dwarf galaxy mergers revealed by Chandra.** <br>
 M. Mezcua Group Meeting, Institute of Space Sciences -- *Barcelona, Spain* -- December 2026 <br> 
 
 **Multi-wavelength confirmation of a 175 pc dual active galactic nucleus at z = 3.27.** <br>
