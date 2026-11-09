@@ -8,7 +8,7 @@ nav_order: 3
 
 A full list of publications, along with selected conference abstracts, can be found at [NASA/ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22sisk-reynes%22&sort=date%20desc%2C%20bibcode%20desc).
 
-## Refereed Publications
+## Publications
 
 - *Chandra X-ray Spectral Evidence of the Dual AGN Nature of the Gravitational lens MG B2016+112 at z=3.273 with 175 pc separation.* <br>
 Schwartz, Daniel A.; **Sisk-Reynés, Júlia M.** & Barnacka, A. <br>
@@ -43,6 +43,11 @@ Krause, Martin G. H., et al., including **Sisk-Reynés, Júlia M.** <br>
 November 2025, PASA, 42, id.e162, 18 pp.  <br>
 [Publisher](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/evidence-for-supermassive-black-hole-binaries/6A4690BF6A39C8DE7D735A700B0C63C8) <br>
 
+- *The Advanced X-ray Imaging Satellite (AXIS) Community Science Book.*  <br>
+Koss, Michael, et al., including **Sisk-Reynés, Júlia M.** <br>
+October 2025, arXiv:2511.00253.  <br>
+[arXiv](https://arxiv.org/abs/2511.00253)
+
 - *The detergent particle.* <br>
 **Sisk-Reynés, Júlia M.**  <br>
 Invited scientfic review article.  <br> 
@@ -51,19 +56,24 @@ December 2024, Royal Astronomical Society's *Astronomy and Geophysics* magazine.
 
 - *Physics Beyond the Standard Model with Future X-Ray Observatories: Projected Constraints on Very-light Axion-like Particles with Athena and AXIS.* <br>
 **Sisk-Reynés, Júlia M.**, et al.  <br>
-June 2023, ApJ, 951, 1, id.5, 17 pp.  <br>
+July 2023, ApJ, 951, 1, id.5, 17 pp.  <br>
 [Publisher](https://iopscience.iop.org/article/10.3847/1538-4357/acd116)  <br>
 [Press Release](https://www.the-athena-x-ray-observatory.eu/en/node/796) <br>
+
+- *Current and Future constraints on Very-Light Axion-Like Particles from X-ray observations of cluster-hosted Active Galaxies.*  <br>
+**Sisk-Reynés, Júlia M.**, Reynolds, Christopher S., & Matthews, James H.  <br>
+March 2023, Memorie della Società Astronomica Italiana, 94, 3, p.26.  <br>
+[arXiv](https://arxiv.org/abs/2304.08513) <br>
 
 - *Evidence for a moderate spin from X-ray reflection of the high-mass supermassive black hole in the cluster-hosted quasar H1821+643.*  <br>
 **Sisk-Reynés, Júlia M.**, et al. <br>
 June 2022, MNRAS, 514, 2, pp. 2568–2580. <br>
 [Publisher](https://academic.oup.com/mnras/article/514/2/2568/6612076?login=false) <br>
-[Press Release](https://chandra.harvard.edu/press/22_releases/press_063022.html)  <br>
+[Press Release](https://chandra.harvard.edu/press/22_releases/press_063022.html) and [Accompanying Blog Post](https://chandra.harvard.edu/blog/node/817) <br>
 
 - *How Do Magnetic Field Models Affect Astrophysical Limits on Light Axion-like Particles? An X-Ray Case Study with NGC 1275.*  <br>
 Matthews, James H.; Marsh, M. C. David; Reynolds, Christopher S., **Sisk-Reynés, Júlia M.** & Rodman, Payton E.  <br>
-May 2022, ApJ, 930, 1, id.90, 17 pp.  <br>
+May 2022, ApJ, 930, 1, id.90, 17 pp. <br>
 [Publisher](https://iopscience.iop.org/article/10.3847/1538-4357/ac5625) <br>
 
 - *New constraints on light axion-like particles using Chandra transmission grating spectroscopy of the powerful cluster-hosted quasar H1821+643.* <br>
@@ -71,19 +81,11 @@ May 2022, ApJ, 930, 1, id.90, 17 pp.  <br>
 February 2022, MNRAS, 510, 1, pp.1264-1277. <br>
 [Publisher](https://academic.oup.com/mnras/article/510/1/1264/6448485?login=false) <br>
 
-## Internally Reviewed Publications
-
-- *The Advanced X-ray Imaging Satellite (AXIS) Community Science Book.*  <br>
-Koss, Michael, et al., including **Sisk-Reynés, Júlia M.** <br>
-October 2025, arXiv:2511.00253.  <br>
-[arXiv](https://arxiv.org/abs/2511.00253)
-
-- *Current and Future constraints on Very-Light Axion-Like Particles from X-ray observations of cluster-hosted Active Galaxies.*  <br>
-**Sisk-Reynés, Júlia M.**, Reynolds, Christopher S., & Matthews, James H.  <br>
-April 2023, Memorie della Società Astronomica Italiana, 94, 3, p.26.  <br>
-[arXiv](https://arxiv.org/abs/2304.08513) <br>
-
 ## Submitted
+
+- *Probing very light axion-like particles using the X-ray transparency of galaxy clusters with NewAthena/X-IFU.* <br>
+ **Sisk-Reynés, Júlia M.**, Hiscocks, H., Domínguez Fernández P., ZuHone J., Nguyen T. T. Q., Konietzka R., Reynolds C. S., Wallage T. & Peca A.
+October 2026. Submitted to the Editorial Board for the JHEAp NewAthena Special Issue. <br>
 
 - *MUSE spectroscopy of the compact dual AGN in the z=3.273 radio-loud gravitational lens MG B2016+112.* <br>
 Huyan, Jianghao & **Sisk-Reynés, Júlia M.**, et al. <br>
