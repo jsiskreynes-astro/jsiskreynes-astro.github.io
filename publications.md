@@ -50,7 +50,7 @@ October 2025, arXiv:2511.00253.  <br>
 
 - *The detergent particle.* <br>
 **Sisk-Reynés, Júlia M.**  <br>
-Invited scientfic review article.  <br> 
+Invited scientific review article.  <br> 
 December 2024, Royal Astronomical Society's *Astronomy and Geophysics* magazine.  <br>
 [Publisher](https://academic.oup.com/astrogeo/article-abstract/65/6/6.30/7913889?redirectedFrom=fulltext&login=false)  <br>
 
@@ -85,9 +85,11 @@ February 2022, MNRAS, 510, 1, pp.1264-1277. <br>
 
 - *Probing very light axion-like particles using the X-ray transparency of galaxy clusters with NewAthena/X-IFU.* <br>
  **Sisk-Reynés, Júlia M.**, Hiscocks, H., Domínguez Fernández P., ZuHone J., Nguyen T. T. Q., Konietzka R., Reynolds C. S., Wallage T. & Peca A. <br>
-October 2026. Submitted to the Editorial Board for the JHEAp NewAthena Special Issue. <br>
+October 2026. <br>
+Submitted to the Editorial Board for the JHEAp NewAthena Special Issue. <br>
 
 - *MUSE spectroscopy of the compact dual AGN in the z=3.273 radio-loud gravitational lens MG B2016+112.* <br>
 Huyan, Jianghao & **Sisk-Reynés, Júlia M.**, et al. <br>
-September 2026. Submitted to ApJL. <br>
+September 2026. <br>
+In review in ApJL. <br>
 [Preprint](https://arxiv.org/abs/2609.31826) <br>
