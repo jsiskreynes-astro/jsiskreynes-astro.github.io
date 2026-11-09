@@ -84,7 +84,7 @@ February 2022, MNRAS, 510, 1, pp.1264-1277. <br>
 ## Submitted
 
 - *Probing very light axion-like particles using the X-ray transparency of galaxy clusters with NewAthena/X-IFU.* <br>
- **Sisk-Reynés, Júlia M.**, Hiscocks, H., Domínguez Fernández P., ZuHone J., Nguyen T. T. Q., Konietzka R., Reynolds C. S., Wallage T. & Peca A.
+ **Sisk-Reynés, Júlia M.**, Hiscocks, H., Domínguez Fernández P., ZuHone J., Nguyen T. T. Q., Konietzka R., Reynolds C. S., Wallage T. & Peca A. <br>
 October 2026. Submitted to the Editorial Board for the JHEAp NewAthena Special Issue. <br>
 
 - *MUSE spectroscopy of the compact dual AGN in the z=3.273 radio-loud gravitational lens MG B2016+112.* <br>
