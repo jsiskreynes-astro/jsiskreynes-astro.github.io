@@ -12,7 +12,7 @@ A full list of publications, along with selected conference abstracts, can be fo
 
 - *MUSE spectroscopy of the compact dual AGN in the z=3.273 radio-loud gravitational lens MG B2016+112.* <br>
 Huyan, Jianghao & **Sisk-Reynés, Júlia M.** (co-first-authors), et al. <br>
-November 2026. Accepted for publication in ApJL (November 2026). <br>
+November 2026. Accepted for publication in ApJL. <br>
 [Submitted version preprint](https://arxiv.org/abs/2609.31826) <br>
 
 - *Chandra X-ray Spectral Evidence of the Dual AGN Nature of the Gravitational lens MG B2016+112 at z=3.273 with 175 pc separation.* <br>
