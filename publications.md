@@ -96,4 +96,4 @@ February 2022, MNRAS, 510, 1, pp.1264-1277. <br>
 - *Probing very light axion-like particles using the X-ray transparency of galaxy clusters with NewAthena/X-IFU.* <br>
  **Sisk-Reynés, Júlia M.**, Hiscocks, H., Domínguez Fernández P., ZuHone J., Nguyen T. T. Q., Konietzka R., Reynolds C. S., Wallage T. & Peca A. <br>
 October 2026. <br>
-Submitted to the Editorial Board for the JHEAp NewAthena Special Issue. <br>
+To be submitted to JHEAp NewAthena Special Issue after internal review. <br>
